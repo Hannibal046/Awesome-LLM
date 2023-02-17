@@ -54,7 +54,7 @@
 
 - DeepSpeed [Link](https://www.deepspeed.ai)
 
-- Megatron-LM[Link](https://github.com/NVIDIA/Megatron-LM)
+- Megatron-LM [Link](https://github.com/NVIDIA/Megatron-LM)
 
 - Colossal-AI [Link](https://colossalai.org)
 
@@ -62,7 +62,7 @@
 
 ## Tutorials about LLM
 
-- [ICML 2022] Welcome to the &#34;Big Model&#34; Era: Techniques and Systems to Train and Serve Bigger Models [Link]((https://icml.cc/virtual/2022/tutorial/18440))
+- [ICML 2022] Welcome to the &#34;Big Model&#34; Era: Techniques and Systems to Train and Serve Bigger Models [Link](https://icml.cc/virtual/2022/tutorial/18440)
 
 - [NeurIPS 2022] Foundational Robustness of Foundation Models [Link](https://nips.cc/virtual/2022/tutorial/55796)
 
