@@ -75,6 +75,7 @@
 - [Aston Zhang] Chain of Thought论文 [Bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.788&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=H4J59iG3t5o&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=29)
 
 ## Useful Resources
+- \[2023-02-15][知乎][张家俊]**关于ChatGPT八个技术问题的猜想** [Link](https://zhuanlan.zhihu.com/p/606478660)
 - \[2023-02-14][Stephen Wolfram]**What Is ChatGPT Doing … and Why Does It Work? [Link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)**
 - \[2023-02-13]\[知乎][熊德意] **对ChatGPT的二十点看法 [Link](https://zhuanlan.zhihu.com/p/605882945?utm_medium=social&utm_oi=939485757606461440&utm_psn=1609870392121860096&utm_source=wechat_session)**
 - \[2023-02-11]\[知乎][刘聪NLP] **ChatGPT-所见、所闻、所感 [Link](https://zhuanlan.zhihu.com/p/605331104)**
