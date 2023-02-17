@@ -1,6 +1,14 @@
 # Awesome-LLM
 
- A comprehensive list of papers about large language model relating to ChatGPT. It also contains codes, courses and related websites.
+ A comprehensive list of papers about large language model relating to ChatGPT. It also contains codes, courses and related websites as shown below:
+
+  * [Milestone Papers](#milestone-papers)
+  * [ChatGPT Evaluation](#chatgpt-evaluation)
+  * [Tools for Training LLM](#tools-for-training-llm)
+  * [Tutorials about LLM](#tutorials-about-llm)
+  * [Course about LLM](#course-about-llm)
+  * [Useful Resources](#useful-resources)
+  * [Contributing](#contributing)
 
 ## Milestone Papers
 
