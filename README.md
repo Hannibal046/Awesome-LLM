@@ -1,6 +1,6 @@
 # Awesome-LLM
 
- A comprehensive list of papers about large language model relating to ChatGPT. It also contains codes, courses and related websites as shown below:
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ **the Whole World** by storm. Here is a comprehensive list of papers about large language models, especially relating to ChatGPT. It also contains codes, courses and related websites as shown below:
 
   * [Milestone Papers](#milestone-papers)
   * [ChatGPT Evaluation](#chatgpt-evaluation)
