@@ -133,6 +133,7 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - \[2023-01-26][NVIDIA] **What Are Large Language Models Used For? [Link](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b)**
 - \[2023-01-18]\[知乎][张俊林] **通向AGI之路：大型语言模型(LLM)技术精要 [Link](https://zhuanlan.zhihu.com/p/597586623)**
 - \[2023-01-06\][Shayne Longpre] **Major LLMs + Data Availability [Link](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)**
+- \[2022-12-11\][Yao Fu] **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources [Link](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)**
 - \[2022-12-07\][Hung-yi Lee] **ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程 [Link](https://www.youtube.com/watch?v=e0aKI2GGZNg)**
 - \[2021-10-26\]\[Huggingface\] **Large Language Models: A New Moore's Law [Link](https://huggingface.co/blog/large-language-models)**
 
