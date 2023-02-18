@@ -133,8 +133,10 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - [Aston Zhang] Chain of Thought论文 [Bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.788&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=H4J59iG3t5o&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=29)
 
 ## Useful Resources
-- \[2023-02-16][知乎][旷视科技]**对话旷视研究院张祥雨｜ChatGPT的科研价值可能更大 [Link](https://zhuanlan.zhihu.com/p/606918875)**
+[对话旷视研究院张祥雨｜ChatGPT的科研价值可能更大](https://zhuanlan.zhihu.com/p/606918875) \[2023-02-16][知乎][旷视科技]
+-  [Link]()**
 - \[2023-02-15][知乎][张家俊]**关于ChatGPT八个技术问题的猜想** [Link](https://zhuanlan.zhihu.com/p/606478660)
+- \[2023-02-15][知乎][陈巍谈芯]**ChatGPT发展历程、原理、技术架构详解和产业未来** [Link](https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0)
 - \[2023-02-14][Stephen Wolfram]**What Is ChatGPT Doing … and Why Does It Work? [Link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)**
 - \[2023-02-13]\[知乎][熊德意] **对ChatGPT的二十点看法 [Link](https://zhuanlan.zhihu.com/p/605882945?utm_medium=social&utm_oi=939485757606461440&utm_psn=1609870392121860096&utm_source=wechat_session)**
 - \[2023-02-12]\[Jingfeng Yang] **Why did all of the public reproduction of GPT-3 fail?[Link](https://jingfengyang.github.io/gpt)**
@@ -153,6 +155,7 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - [ChatGPT](https://openai.com/blog/chatgpt/)
 - [OpenAI](https://openai.com/api/)
 - [GLM-130B](https://huggingface.co/spaces/THUDM/GLM-130B)
+- [CPM-Bee](https://live.openbmb.org/models/bee)
 
 ## Publicly Available LLM Checkpoints
 ### BigScience/BLOOM
