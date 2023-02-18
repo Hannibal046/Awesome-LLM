@@ -9,6 +9,7 @@
   - [Tutorials about LLM](#tutorials-about-llm)
   - [Course about LLM](#course-about-llm)
   - [Useful Resources](#useful-resources)
+  - [Publicly Available Checkpoints](#publicly-available-checkpoints)
   - [Contributing](#contributing)
 
 ## Milestone Papers
@@ -123,7 +124,7 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - \[2023-01-06\][Shayne Longpre] **Major LLMs + Data Availability [Link](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)**
 - \[2021-10-26\]\[Huggingface\] **Large Language Models: A New Moore's Law [Link](https://huggingface.co/blog/large-language-models)**
 
-## Public Checkpoints
+## Publicly Available Checkpoints
 
 <details><summary>Google</summary>
 
