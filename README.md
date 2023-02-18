@@ -96,6 +96,54 @@
 - \[2023-01-06\][Shayne Longpre] **Major LLMs + Data Availability [Link](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)**
 - \[2021-10-26\]\[Huggingface\] **Large Language Models: A New Moore's Law [Link](https://huggingface.co/blog/large-language-models)**
 
+## Public Checkpoints
+
+<details><summary>Google</summary>
+
+- Flan-T5
+  | Size  | Parameters | Link                                                                                                                                                      |
+  | ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | small | 80 M       | [Huggingface](https://huggingface.co/google/flan-t5-small) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
+  | base  | 250 M      | [Huggingface](https://huggingface.co/google/flan-t5-base) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)  |
+  | large | 780 M      | [Huggingface](https://huggingface.co/google/flan-t5-large) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
+  | xl    | 3 B        | [Huggingface](https://huggingface.co/google/flan-t5-xl) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)    |
+  | xxl   | 11 B       | [Huggingface](https://huggingface.co/google/flan-t5-xxl) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)   |
+</details>
+
+
+<details><summary>Meta</summary>
+
+- OPT
+  | Size  | Parameters | Link                                                 |
+  | ----- | ---------- | ---------------------------------------------------- |
+  | 125 M | 125 M      | [Huggingface](https://huggingface.co/facebook/opt-125m) |
+  | 350 M | 350 M      | [Huggingface](https://huggingface.co/facebook/opt-350m) |
+  | 1.3 B | 1.3 B      | [Huggingface](https://huggingface.co/facebook/opt-1.3b) |
+  | 2.7 B | 2.7 B      | [Huggingface](https://huggingface.co/facebook/opt-2.7b) |
+  | 6.7 B | 6.7 B      | [Huggingface](https://huggingface.co/facebook/opt-6.7b) |
+  | 13 B  | 13 B       | [Huggingface](https://huggingface.co/facebook/opt-13b)  |
+  | 30 B  | 30 B       | [Huggingface](https://huggingface.co/facebook/opt-30b)  |
+  | 66 B  | 66 B       | [Huggingface](https://huggingface.co/facebook/opt-66b)  |
+- Galactica
+  | Size     | Parameters | Link                                                       |
+  | -------- | ---------- | ---------------------------------------------------------- |
+  | mini     | 125 M      | [Huggingface](https://huggingface.co/facebook/galactica-125m) |
+  | base     | 1.3 B      | [Huggingface](https://huggingface.co/facebook/galactica-1.3b) |
+  | standard | 6.7 B      | [Huggingface](https://huggingface.co/facebook/galactica-6.7b) |
+  | large    | 30 B       | [Huggingface](https://huggingface.co/facebook/galactica-30b)  |
+  | huge     | 120 B      | [Huggingface](https://huggingface.co/facebook/galactica-120b) |
+
+</details>
+
+
+<details><summary>BigScience</summary>
+
+- BLOOM
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 760 B | 760 B      | [Huggingface](https://huggingface.co/bigscience/bloom) |
+</details>
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! 
