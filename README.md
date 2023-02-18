@@ -93,7 +93,7 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 > [Colossal-AI](https://colossalai.org) provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines.
 
 <div align=center>
-<img src="https://github.com/OpenBMB/BMTrain/blob/main/docs/logo.png"  width="240" height="">
+<img src="https://github.com/OpenBMB/BMTrain/blob/main/docs/logo.png"  width="80" height="">
 </div>  
 
 > [BMTrain](https://github.com/OpenBMB/BMTrain) is an efficient large model training toolkit that can be used to train large models with tens of billions of parameters. It can train models in a distributed manner while keeping the code as simple as stand-alone training.
