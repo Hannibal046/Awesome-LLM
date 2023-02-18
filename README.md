@@ -145,35 +145,36 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 
 ## Publicly Available LLM Checkpoints
 ### BigScience/BLOOM
-    | Size  | Parameters | Link                                                |
-    | ----- | ---------- | --------------------------------------------------- |
-    | 560 M | 560 M      | [Huggingface](https://huggingface.co/bigscience/bloom-560m) |
-    | 1.1 B | 1.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.1b) |
-    | 1.7 B | 1.7 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.7b) |
-    |   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/bloom-3b)   |
-    | 7.1 B | 7.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-7.1b) |
-    | 176 B | 176 B      | [Huggingface](https://huggingface.co/bigscience/bloom)      |
+
+| Size  | Parameters | Link                                                |
+| ----- | ---------- | --------------------------------------------------- |
+| 560 M | 560 M      | [Huggingface](https://huggingface.co/bigscience/bloom-560m) |
+| 1.1 B | 1.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.1b) |
+| 1.7 B | 1.7 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.7b) |
+|   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/bloom-3b)   |
+| 7.1 B | 7.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-7.1b) |
+| 176 B | 176 B      | [Huggingface](https://huggingface.co/bigscience/bloom)      |
 
 ### BigScience/T0
-    | Size  | Parameters | Link                                                |
-    | ----- | ---------- | --------------------------------------------------- |
-    |   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/T0_3B) |
-    |  11 B |  11 B      | [Huggingface](https://huggingface.co/bigscience/T0)    |
+| Size  | Parameters | Link                                                |
+| ----- | ---------- | --------------------------------------------------- |
+|   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/T0_3B) |
+|  11 B |  11 B      | [Huggingface](https://huggingface.co/bigscience/T0)    |
 
 
 ### Blink/RWKV
-    | Size  | Parameters | Link                                                |
-    | ----- | ---------- | --------------------------------------------------- |
-    | 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169b) |
-    | 430 M | 430 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-430b) |
-    | 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1.5b) |
-    |   3 B |   3 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-3b)   |
-    |   7 B |   7 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
+  | Size  | Parameters | Link                                                |
+  | ----- | ---------- | --------------------------------------------------- |
+  | 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169b) |
+  | 430 M | 430 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-430b) |
+  | 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1.5b) |
+  |   3 B |   3 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-3b)   |
+  |   7 B |   7 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
 
 ### Google/Flan-T5
 
-| Size  | Parameters | Link                                                                                                                                                    |
-  | ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Size  | Parameters | Link |     
+| ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | small | 80 M       | [Huggingface](https://huggingface.co/google/flan-t5-small) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
   | base  | 250 M      | [Huggingface](https://huggingface.co/google/flan-t5-base) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)  |
   | large | 780 M      | [Huggingface](https://huggingface.co/google/flan-t5-large) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
