@@ -54,7 +54,7 @@
 
 - Is ChatGPT A Good Translator? A Preliminary Study [Link](https://arxiv.org/pdf/2301.08745.pdf)
 
-## Tools for Training LLM
+## LLM Training Frameworks
 
 <div align=center>
 <img src="https://github.com/alpa-projects/alpa/blob/main/docs/logo/alpa-logo-cropped.png" width="120">
@@ -96,6 +96,14 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 
 > [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html) discusses parallelism via jax.Array.
 
+## Tools for using LLM
+🦜️🔗 [LangChain](https://github.com/hwchase17/langchain)
+
+> Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge. This library is aimed at assisting in the development of those types of applications. Common examples of these types of applications include ❓ Question Answering over specific documents, 💬 Chatbots and 🤖 Agents.
+
+👋 [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+
+> Use ChatGPT On Wechat via wechaty
 
 ## Tutorials about LLM
 
@@ -106,7 +114,8 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - [Andrej Karpathy] Let's build GPT: from scratch, in code, spelled out. [Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)|[Code](https://github.com/karpathy/ng-video-lecture)
 
 - [DAIR.AI] Prompt Engineering Guide [Link](https://github.com/dair-ai/Prompt-Engineering-Guide)
-## Course about LLM
+
+## Courses about LLM
 
 - [Stanford] CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF [Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
 
