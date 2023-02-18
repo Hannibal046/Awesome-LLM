@@ -16,35 +16,35 @@
 
 | Year | keywords     | Institute | Paper                                                        | Publication |
 | :--: | :----------- | :-------: | :----------------------------------------------------------- | :---------: |
-| 2017 | Transformers |  Google   | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) |   NeurIPS   |
-| 2018 | GPT 1.0      |  OpenAI   | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) |             |
-| 2019 | BERT         |  Google   | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf) |    NAACL    |
-| 2019 | T5           |  Google   | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://jmlr.org/papers/v21/20-074.html) |    JMLR     |
-| 2019 | GPT 2.0      |  OpenAI   | [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |             |
-| 2020 | GPT 3.0      |  OpenAI   | [Language models are few-shot learners](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) |   NeurIPS   |
-| 2020 | Scaling Law  |  OpenAI   | [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf) |             |
-| 2020 | Megatron-LM  | NVIDIA | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053.pdf) ||
-| 2022 | Flan-T5 | Google | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) |  |
-| 2021 | LM-BFF | Princeton | [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/pdf/2012.15723.pdf) | ACL|
-| 2021 | WebGPT | OpenAI | [WebGPT: Improving the Factual Accuracy of Language Models through Web Browsing](https://openai.com/blog/webgpt/) |  |
-| 2021 | Codex | OpenAI | [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf) |  |
-| 2022 | Foundation Models | Stanford |[On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) |  |
-| 2022 | HELM | Stanford | [Holistic Evaluation of Language Models](https://arxiv.org/pdf/2211.09110.pdf) |  |
-| 2022 | InstructGPT | OpenAI | [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) |  |
-| 2022 | Emergent Abilities | Google | [Emergent Abilities of Large Language Models](https://openreview.net/pdf?id=yzkSU5zdwD) | TMLR |
-| 2022 | COT | Google | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) | NeurIPS |
-| 2022 | PaLM | Google | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) |  |
-| 2022 | FLAN | Google | [Finetuned Language Models are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) | ICLR |
-| 2022 | Chinchilla| DeepMind | [An empirical analysis of compute-optimal large language model training](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training) | NeurIPS |
-| 2022 | BIG-bench | Google | [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://github.com/google/BIG-bench) |  |
-| 2022 | BLOOM | BigScience | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100.pdf) |  |
-| 2022 | OPT | Meta | [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf) |  |
-| 2022 | LaMDA| Google | [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf) |  |
-| 2022 | Sparrow | DeepMind | [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf) |  |
-| 2022 | Retro | DeepMind | [Improving language models by retrieving from trillions of tokens](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens) | ICML |
-| 2022 | METALM | Microsoft | [Language Models are General-Purpose Interfaces](https://arxiv.org/pdf/2206.06336.pdf) |  |
-| 2022 | Galactica | Meta | [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf) |  |
-| 2023 | Flan 2022 Collection | Google | [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/pdf/2301.13688.pdf) |  |
+| 2017-06 | Transformers |  Google   | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) |   NeurIPS   |
+| 2018-06 | GPT 1.0      |  OpenAI   | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) |             |
+| 2018-10 | BERT         |  Google   | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf) |    NAACL    |
+| 2019-02 | GPT 2.0      |  OpenAI   | [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |             |
+| 2019-09 | Megatron-LM  | NVIDIA | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053.pdf) ||
+| 2019-10 | T5           |  Google   | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://jmlr.org/papers/v21/20-074.html) |    JMLR     |
+| 2020-01 | Scaling Law  |  OpenAI   | [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf) |             |
+| 2020-05 | GPT 3.0      |  OpenAI   | [Language models are few-shot learners](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) |   NeurIPS   |
+| 2020-12 | LM-BFF | Princeton | [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/pdf/2012.15723.pdf) | ACL|
+| 2021-08 | Codex | OpenAI | [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf) |  |
+| 2021-08 | Foundation Models | Stanford |[On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) |  |
+| 2021-09 | FLAN | Google | [Finetuned Language Models are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) | ICLR |
+| 2021-12 | WebGPT | OpenAI | [WebGPT: Improving the Factual Accuracy of Language Models through Web Browsing](https://openai.com/blog/webgpt/) |  |
+| 2021-12 | Retro | DeepMind | [Improving language models by retrieving from trillions of tokens](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens) | ICML |
+| 2022-01 | COT | Google | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) | NeurIPS |
+| 2022-01 | LaMDA| Google | [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf) |  |
+| 2022-03 | InstructGPT | OpenAI | [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) |  |
+| 2022-04 | PaLM | Google | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) |  |
+| 2022-04 | Chinchilla| DeepMind | [An empirical analysis of compute-optimal large language model training](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training) | NeurIPS |
+| 2022-05 | OPT | Meta | [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf) |  |
+| 2022-06 | Emergent Abilities | Google | [Emergent Abilities of Large Language Models](https://openreview.net/pdf?id=yzkSU5zdwD) | TMLR |
+| 2022-06 | BIG-bench | Google | [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://github.com/google/BIG-bench) |  |
+| 2022-06 | METALM | Microsoft | [Language Models are General-Purpose Interfaces](https://arxiv.org/pdf/2206.06336.pdf) |  |
+| 2022-09 | Sparrow | DeepMind | [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf) |  |
+| 2022-10 | Flan-T5 | Google | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) |  |
+| 2022-11 | HELM | Stanford | [Holistic Evaluation of Language Models](https://arxiv.org/pdf/2211.09110.pdf) |  |
+| 2022-11 | BLOOM | BigScience | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100.pdf) |  |
+| 2022-11 | Galactica | Meta | [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf) |  |
+| 2023-01 | Flan 2022 Collection | Google | [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/pdf/2301.13688.pdf) |  |
 
 ## ChatGPT Evaluation
 
