@@ -9,7 +9,8 @@
   - [Tutorials about LLM](#tutorials-about-llm)
   - [Course about LLM](#course-about-llm)
   - [Useful Resources](#useful-resources)
-  - [Publicly Available Checkpoints](#publicly-available-checkpoints)
+  - [Publicly Available LLM APIs](#publicly-available-llm-apis)
+  - [Publicly Available LLM Checkpoints](#publicly-available-llm-checkpoints)
   - [Contributing](#contributing)
 
 ## Milestone Papers
@@ -135,11 +136,15 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - \[2022-12-07\][Hung-yi Lee] **ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程 [Link](https://www.youtube.com/watch?v=e0aKI2GGZNg)**
 - \[2021-10-26\]\[Huggingface\] **Large Language Models: A New Moore's Law [Link](https://huggingface.co/blog/large-language-models)**
 
-## Publicly Available Checkpoints
+## Publicly Available LLM APIs
+- [Alpa/OPT-175B](https://opt.alpa.ai)
+- [BLOOM](https://huggingface.co/bigscience/bloom)
+- [ChatGPT](https://openai.com/blog/chatgpt/)
+- [OpenAI](https://openai.com/api/)
+- [GLM-130B](https://huggingface.co/spaces/THUDM/GLM-130B)
 
-<details><summary>BigScience</summary>
-
-- BLOOM
+## Publicly Available LLM Checkpoints
+### BigScience/BLOOM
     | Size  | Parameters | Link                                                |
     | ----- | ---------- | --------------------------------------------------- |
     | 560 M | 560 M      | [Huggingface](https://huggingface.co/bigscience/bloom-560m) |
@@ -149,17 +154,14 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
     | 7.1 B | 7.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-7.1b) |
     | 176 B | 176 B      | [Huggingface](https://huggingface.co/bigscience/bloom)      |
 
-- T0
+### BigScience/T0
     | Size  | Parameters | Link                                                |
     | ----- | ---------- | --------------------------------------------------- |
     |   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/T0_3B) |
     |  11 B |  11 B      | [Huggingface](https://huggingface.co/bigscience/T0)    |
-</details>
 
 
-<details><summary>Blink</summary>
-
-- RWKV
+### Blink/RWKV
     | Size  | Parameters | Link                                                |
     | ----- | ---------- | --------------------------------------------------- |
     | 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169b) |
@@ -167,56 +169,61 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
     | 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1.5b) |
     |   3 B |   3 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-3b)   |
     |   7 B |   7 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
-</details>
 
-<details><summary>EleutherAI</summary>
+### Google/Flan-T5
 
-- GPT-NeoX
-    | Size  | Parameters | Link                                                |
-    | ----- | ---------- | --------------------------------------------------- |
-    | 20 B | 20 B      | [Huggingface](https://huggingface.co/docs/transformers/model_doc/gpt_neox) \| [Original](https://github.com/EleutherAI/gpt-neox) |
-</details>
-
-<details><summary>Google</summary>
-
-- Flan-T5
-  | Size  | Parameters | Link                                                                                                                                                      |
+| Size  | Parameters | Link                                                                                                                                                    |
   | ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | small | 80 M       | [Huggingface](https://huggingface.co/google/flan-t5-small) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
   | base  | 250 M      | [Huggingface](https://huggingface.co/google/flan-t5-base) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)  |
   | large | 780 M      | [Huggingface](https://huggingface.co/google/flan-t5-large) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
   | xl    | 3 B        | [Huggingface](https://huggingface.co/google/flan-t5-xl) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)    |
   | xxl   | 11 B       | [Huggingface](https://huggingface.co/google/flan-t5-xxl) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)   |
-</details>
-
-
-<details><summary>Meta</summary>
-
-- Galactica
-  | Size     | Parameters | Link                                                       |
-  | -------- | ---------- | ---------------------------------------------------------- |
-  | mini     | 125 M      | [Huggingface](https://huggingface.co/facebook/galactica-125m) |
-  | base     | 1.3 B      | [Huggingface](https://huggingface.co/facebook/galactica-1.3b) |
-  | standard | 6.7 B      | [Huggingface](https://huggingface.co/facebook/galactica-6.7b) |
-  | large    | 30 B       | [Huggingface](https://huggingface.co/facebook/galactica-30b)  |
-  | huge     | 120 B      | [Huggingface](https://huggingface.co/facebook/galactica-120b) |
-- OPT
-  | Size  | Parameters | Link                                                 |
-  | ----- | ---------- | ---------------------------------------------------- |
-  | 125 M | 125 M      | [Huggingface](https://huggingface.co/facebook/opt-125m) |
-  | 350 M | 350 M      | [Huggingface](https://huggingface.co/facebook/opt-350m) |
-  | 1.3 B | 1.3 B      | [Huggingface](https://huggingface.co/facebook/opt-1.3b) |
-  | 2.7 B | 2.7 B      | [Huggingface](https://huggingface.co/facebook/opt-2.7b) |
-  | 6.7 B | 6.7 B      | [Huggingface](https://huggingface.co/facebook/opt-6.7b) |
-  | 13 B  | 13 B       | [Huggingface](https://huggingface.co/facebook/opt-13b)  |
-  | 30 B  | 30 B       | [Huggingface](https://huggingface.co/facebook/opt-30b)  |
-  | 66 B  | 66 B       | [Huggingface](https://huggingface.co/facebook/opt-66b)  |
-</details>
 
 
 
+### Meta/OPT
+| Size  | Parameters | Link                                                 |
+| ----- | ---------- | ---------------------------------------------------- |
+| 125 M | 125 M      | [Huggingface](https://huggingface.co/facebook/opt-125m) |
+| 350 M | 350 M      | [Huggingface](https://huggingface.co/facebook/opt-350m) |
+| 1.3 B | 1.3 B      | [Huggingface](https://huggingface.co/facebook/opt-1.3b) |
+| 2.7 B | 2.7 B      | [Huggingface](https://huggingface.co/facebook/opt-2.7b) |
+| 6.7 B | 6.7 B      | [Huggingface](https://huggingface.co/facebook/opt-6.7b) |
+| 13 B  | 13 B       | [Huggingface](https://huggingface.co/facebook/opt-13b)  |
+| 30 B  | 30 B       | [Huggingface](https://huggingface.co/facebook/opt-30b)  |
+| 66 B  | 66 B       | [Huggingface](https://huggingface.co/facebook/opt-66b)  |
+
+### Meta/Galactica
+| Size     | Parameters | Link                                                       |
+| -------- | ---------- | ---------------------------------------------------------- |
+| mini     | 125 M      | [Huggingface](https://huggingface.co/facebook/galactica-125m) |
+| base     | 1.3 B      | [Huggingface](https://huggingface.co/facebook/galactica-1.3b) |
+| standard | 6.7 B      | [Huggingface](https://huggingface.co/facebook/galactica-6.7b) |
+| large    | 30 B       | [Huggingface](https://huggingface.co/facebook/galactica-30b)  |
+| huge     | 120 B      | [Huggingface](https://huggingface.co/facebook/galactica-120b) |
 
 
+### EleutherAI/GPT-NeoX
+| Size  | Parameters | Link                                                |
+| ----- | ---------- | --------------------------------------------------- |
+| 20 B | 20 B      | [Huggingface](https://huggingface.co/docs/transformers/model_doc/gpt_neox)\|[Original](https://github.com/EleutherAI/gpt-neox) |
+
+
+### Tsinghua/GLM
+| Size  | Parameters | Link                                                |
+| ----- | ---------- | --------------------------------------------------- |
+| GLM-Base | 110M    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-Large | 335M    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-Large-Chinese | 335M    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-Doc | 335M    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-410M | 410M    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-515M | 515M    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-RoBERTa | 335M    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-2B | 2B    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-10B | 10B    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-10B-Chinese | 10B    |  [Original](https://github.com/THUDM/GLM)|
+| GLM-130B | 130B    |  [Original](https://github.com/THUDM/GLM-130B)|
 
 
 ## Contributing
