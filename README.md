@@ -52,6 +52,15 @@
 - Is ChatGPT A Good Translator? A Preliminary Study [Link](https://arxiv.org/pdf/2301.08745.pdf)
 
 ## Tools for Training LLM
+
+<div align=center>
+<img src="https://github.com/alpa-projects/alpa/blob/main/docs/logo/alpa-logo-cropped.png" width="120">
+</div>  
+
+> [Alpa](https://github.com/alpa-projects/alpa) is a system for training and serving large-scale neural networks. 
+Scaling neural networks to hundreds of billions of parameters has enabled dramatic breakthroughs such as GPT-3, but training and serving these large-scale neural networks require complicated distributed system techniques. Alpa aims to automate large-scale distributed training and serving with just a few lines of code.
+
+
 <div align=center>
 <img src="https://raw.githubusercontent.com/microsoft/DeepSpeed/8be8c012c8a247e5512276676b5e7092d88633eb/docs/assets/images/DeepSpeed_light.svg">
 </div>  
