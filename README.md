@@ -89,6 +89,13 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 > Mesh TensorFlow `(mtf)` is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations. The purpose of Mesh TensorFlow is to formalize and implement distribution strategies for your computation graph over your hardware/processors. For example: "Split the batch over rows of processors and split the units in the hidden layer across columns of processors." Mesh TensorFlow is implemented as a layer over TensorFlow. You can visite it [here](https://github.com/tensorflow/mesh)
 
 
+<div align=center>
+<img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png"  width="120" height="">
+</div> 
+
+> [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html) discusses parallelism via jax.Array.
+
+
 ## Tutorials about LLM
 
 - [ICML 2022] Welcome to the &#34;Big Model&#34; Era: Techniques and Systems to Train and Serve Bigger Models [Link](https://icml.cc/virtual/2022/tutorial/18440)
@@ -175,6 +182,15 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
     | ----- | ---------- | --------------------------------------------------- |
     | 760 B | 760 B      | [Huggingface](https://huggingface.co/bigscience/bloom) |
 </details>
+
+<details><summary>EleutherAI</summary>
+
+- GPT-NeoX
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 20 B | 20 B      | [Huggingface](https://huggingface.co/docs/transformers/model_doc/gpt_neox)\|[Original](https://github.com/EleutherAI/gpt-neox) |
+</details>
+
 
 ## Contributing
 
