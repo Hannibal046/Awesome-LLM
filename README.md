@@ -14,7 +14,7 @@
 
 ## Milestone Papers
 
-| Year | keywords     | Institute | Paper                                                        | Publication |
+| <div style="width:60px">Year</div> | keywords     | Institute | Paper                                                        | Publication |
 | :--: | :----------- | :-------: | :----------------------------------------------------------- | :---------: |
 | 2017-06 | Transformers |  Google   | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) |   NeurIPS   |
 | 2018-06 | GPT 1.0      |  OpenAI   | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) |             |
