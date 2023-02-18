@@ -2,7 +2,7 @@
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ **the Whole World** by storm. Here is a comprehensive list of papers about large language models, especially relating to ChatGPT. It also contains codes, courses and related websites as shown below:
 
-- [Awesome-LLM](#awesome-llm)
+- [Awesome-LLM ](#awesome-llm-)
   - [Milestone Papers](#milestone-papers)
   - [ChatGPT Evaluation](#chatgpt-evaluation)
   - [LLM Training Frameworks](#llm-training-frameworks)
@@ -12,6 +12,14 @@
   - [Useful Resources](#useful-resources)
   - [Publicly Available LLM APIs](#publicly-available-llm-apis)
   - [Publicly Available LLM Checkpoints](#publicly-available-llm-checkpoints)
+    - [BigScience/BLOOM](#bigsciencebloom)
+    - [BigScience/T0](#bigsciencet0)
+    - [Blink/RWKV](#blinkrwkv)
+    - [Google/Flan-T5](#googleflan-t5)
+    - [Meta/OPT](#metaopt)
+    - [Meta/Galactica](#metagalactica)
+    - [EleutherAI/GPT-NeoX](#eleutheraigpt-neox)
+    - [Tsinghua/GLM](#tsinghuaglm)
   - [Contributing](#contributing)
 
 ## Milestone Papers
@@ -133,21 +141,21 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - [Aston Zhang] Chain of Thought论文 [Bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.788&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=H4J59iG3t5o&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=29)
 
 ## Useful Resources
-[对话旷视研究院张祥雨｜ChatGPT的科研价值可能更大](https://zhuanlan.zhihu.com/p/606918875) \[2023-02-16][知乎][旷视科技]
--  [Link]()**
-- \[2023-02-15][知乎][张家俊]**关于ChatGPT八个技术问题的猜想** [Link](https://zhuanlan.zhihu.com/p/606478660)
-- \[2023-02-15][知乎][陈巍谈芯]**ChatGPT发展历程、原理、技术架构详解和产业未来** [Link](https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0)
-- \[2023-02-14][Stephen Wolfram]**What Is ChatGPT Doing … and Why Does It Work? [Link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)**
-- \[2023-02-13]\[知乎][熊德意] **对ChatGPT的二十点看法 [Link](https://zhuanlan.zhihu.com/p/605882945?utm_medium=social&utm_oi=939485757606461440&utm_psn=1609870392121860096&utm_source=wechat_session)**
-- \[2023-02-12]\[Jingfeng Yang] **Why did all of the public reproduction of GPT-3 fail?[Link](https://jingfengyang.github.io/gpt)**
-- \[2023-02-11]\[知乎][刘聪NLP] **ChatGPT-所见、所闻、所感 [Link](https://zhuanlan.zhihu.com/p/605331104)**
-- \[2023-02-07][Forbes] **The Next Generation Of Large Language Models [Link](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b)**
-- \[2023-01-26][NVIDIA] **What Are Large Language Models Used For? [Link](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b)**
-- \[2023-01-18]\[知乎][张俊林] **通向AGI之路：大型语言模型(LLM)技术精要 [Link](https://zhuanlan.zhihu.com/p/597586623)**
-- \[2023-01-06\][Shayne Longpre] **Major LLMs + Data Availability [Link](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)**
-- \[2022-12-11\][Yao Fu] **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources [Link](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)**
-- \[2022-12-07\][Hung-yi Lee] **ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程 [Link](https://www.youtube.com/watch?v=e0aKI2GGZNg)**
-- \[2021-10-26\]\[Huggingface\] **Large Language Models: A New Moore's Law [Link](https://huggingface.co/blog/large-language-models)**
+- [对话旷视研究院张祥雨｜ChatGPT的科研价值可能更大](https://zhuanlan.zhihu.com/p/606918875) \[2023-02-16][知乎][旷视科技]
+
+- [关于ChatGPT八个技术问题的猜想](https://zhuanlan.zhihu.com/p/606478660) \[2023-02-15][知乎][张家俊]
+- [ChatGPT发展历程、原理、技术架构详解和产业未来](https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0) \[2023-02-15][知乎][陈巍谈芯]
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) \[2023-02-14][Stephen Wolfram]
+- [对ChatGPT的二十点看法](https://zhuanlan.zhihu.com/p/605882945?utm_medium=social&utm_oi=939485757606461440&utm_psn=1609870392121860096&utm_source=wechat_session) \[2023-02-13]\[知乎][熊德意]
+- [Why did all of the public reproduction of GPT-3 fail?](https://jingfengyang.github.io/gpt) \[2023-02-12]\[Jingfeng Yang]
+- [ChatGPT-所见、所闻、所感](https://zhuanlan.zhihu.com/p/605331104) \[2023-02-11]\[知乎][刘聪NLP] 
+- [The Next Generation Of Large Language Models ](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b) \[2023-02-07][Forbes]
+- [What Are Large Language Models Used For? ](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b) \[2023-01-26][NVIDIA]  
+- [通向AGI之路：大型语言模型(LLM)技术精要](https://zhuanlan.zhihu.com/p/597586623) \[2023-01-18]\[知乎][张俊林]
+- [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0) \[2023-01-06\][Shayne Longpre] 
+- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) \[2022-12-11\][Yao Fu]
+- [ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) \[2022-12-07\][Hung-yi Lee]
+- [Large Language Models: A New Moore's Law ](https://huggingface.co/blog/large-language-models) \[2021-10-26\]\[Huggingface\]
 
 ## Publicly Available LLM APIs
 - [Alpa/OPT-175B](https://opt.alpa.ai)
