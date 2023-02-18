@@ -129,6 +129,39 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 
 ## Publicly Available Checkpoints
 
+<details><summary>BigScience</summary>
+
+- BLOOM
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 560 M | 560 M      | [Huggingface](https://huggingface.co/bigscience/bloom-560m) |
+    | 1.1 B | 1.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.1b) |
+    | 1.7 B | 1.7 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.7b) |
+    |   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/bloom-3b)   |
+    | 7.1 B | 7.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-7.1b) |
+    | 176 B | 176 B      | [Huggingface](https://huggingface.co/bigscience/bloom)      |
+
+- T0
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    |   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/T0_3B) |
+    |  11 B |  11 B      | [Huggingface](https://huggingface.co/bigscience/T0)    |
+</details>
+
+
+<details><summary>Blink</summary>
+
+- RWKV
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169b) |
+    | 430 M | 430 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-430b) |
+    | 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1.5b) |
+    |   3 B |   3 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-3b)   |
+    |   7 B |   7 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
+</details>
+
+
 <details><summary>Google</summary>
 
 - Flan-T5
@@ -144,6 +177,14 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 
 <details><summary>Meta</summary>
 
+- Galactica
+  | Size     | Parameters | Link                                                       |
+  | -------- | ---------- | ---------------------------------------------------------- |
+  | mini     | 125 M      | [Huggingface](https://huggingface.co/facebook/galactica-125m) |
+  | base     | 1.3 B      | [Huggingface](https://huggingface.co/facebook/galactica-1.3b) |
+  | standard | 6.7 B      | [Huggingface](https://huggingface.co/facebook/galactica-6.7b) |
+  | large    | 30 B       | [Huggingface](https://huggingface.co/facebook/galactica-30b)  |
+  | huge     | 120 B      | [Huggingface](https://huggingface.co/facebook/galactica-120b) |
 - OPT
   | Size  | Parameters | Link                                                 |
   | ----- | ---------- | ---------------------------------------------------- |
@@ -155,25 +196,10 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
   | 13 B  | 13 B       | [Huggingface](https://huggingface.co/facebook/opt-13b)  |
   | 30 B  | 30 B       | [Huggingface](https://huggingface.co/facebook/opt-30b)  |
   | 66 B  | 66 B       | [Huggingface](https://huggingface.co/facebook/opt-66b)  |
-- Galactica
-  | Size     | Parameters | Link                                                       |
-  | -------- | ---------- | ---------------------------------------------------------- |
-  | mini     | 125 M      | [Huggingface](https://huggingface.co/facebook/galactica-125m) |
-  | base     | 1.3 B      | [Huggingface](https://huggingface.co/facebook/galactica-1.3b) |
-  | standard | 6.7 B      | [Huggingface](https://huggingface.co/facebook/galactica-6.7b) |
-  | large    | 30 B       | [Huggingface](https://huggingface.co/facebook/galactica-30b)  |
-  | huge     | 120 B      | [Huggingface](https://huggingface.co/facebook/galactica-120b) |
-
 </details>
 
 
-<details><summary>BigScience</summary>
 
-- BLOOM
-    | Size  | Parameters | Link                                                |
-    | ----- | ---------- | --------------------------------------------------- |
-    | 760 B | 760 B      | [Huggingface](https://huggingface.co/bigscience/bloom) |
-</details>
 
 ## Contributing
 
