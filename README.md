@@ -144,6 +144,31 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 - [GLM-130B](https://huggingface.co/spaces/THUDM/GLM-130B)
 
 ## Publicly Available LLM Checkpoints
+### BigScience/BLOOM
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 560 M | 560 M      | [Huggingface](https://huggingface.co/bigscience/bloom-560m) |
+    | 1.1 B | 1.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.1b) |
+    | 1.7 B | 1.7 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.7b) |
+    |   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/bloom-3b)   |
+    | 7.1 B | 7.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-7.1b) |
+    | 176 B | 176 B      | [Huggingface](https://huggingface.co/bigscience/bloom)      |
+
+### BigScience/T0
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    |   3 B |   3 B      | [Huggingface](https://huggingface.co/bigscience/T0_3B) |
+    |  11 B |  11 B      | [Huggingface](https://huggingface.co/bigscience/T0)    |
+
+
+### Blink/RWKV
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169b) |
+    | 430 M | 430 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-430b) |
+    | 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1.5b) |
+    |   3 B |   3 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-3b)   |
+    |   7 B |   7 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
 
 ### Google/Flan-T5
 
@@ -177,11 +202,6 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 | standard | 6.7 B      | [Huggingface](https://huggingface.co/facebook/galactica-6.7b) |
 | large    | 30 B       | [Huggingface](https://huggingface.co/facebook/galactica-30b)  |
 | huge     | 120 B      | [Huggingface](https://huggingface.co/facebook/galactica-120b) |
-
-### BigScience/BLOOM
-| Size  | Parameters | Link                                                |
-| ----- | ---------- | --------------------------------------------------- |
-| 760 B | 760 B      | [Huggingface](https://huggingface.co/bigscience/bloom) |
 
 
 ### EleutherAI/GPT-NeoX
