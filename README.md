@@ -41,6 +41,7 @@
 | 2022-06 | METALM | Microsoft | [Language Models are General-Purpose Interfaces](https://arxiv.org/pdf/2206.06336.pdf) |  |
 | 2022-09 | Sparrow | DeepMind | [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf) |  |
 | 2022-10 | Flan-T5 | Google | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) |  |
+| 2022-10 | GLM-130B | Tsinghua | [GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/pdf/2210.02414.pdf) | ICLR |
 | 2022-11 | HELM | Stanford | [Holistic Evaluation of Language Models](https://arxiv.org/pdf/2211.09110.pdf) |  |
 | 2022-11 | BLOOM | BigScience | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100.pdf) |  |
 | 2022-11 | Galactica | Meta | [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf) |  |
@@ -86,6 +87,13 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 </div> 
 
 > Mesh TensorFlow `(mtf)` is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations. The purpose of Mesh TensorFlow is to formalize and implement distribution strategies for your computation graph over your hardware/processors. For example: "Split the batch over rows of processors and split the units in the hidden layer across columns of processors." Mesh TensorFlow is implemented as a layer over TensorFlow. You can visite it [here](https://github.com/tensorflow/mesh)
+
+
+<div align=center>
+<img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png"  width="120" height="">
+</div> 
+
+> [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html) discusses parallelism via jax.Array.
 
 
 ## Tutorials about LLM
@@ -199,6 +207,15 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 </details>
 
 
+
+
+<details><summary>EleutherAI</summary>
+
+- GPT-NeoX
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 20 B | 20 B      | [Huggingface](https://huggingface.co/docs/transformers/model_doc/gpt_neox)\|[Original](https://github.com/EleutherAI/gpt-neox) |
+</details>
 
 
 ## Contributing
