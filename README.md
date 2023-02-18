@@ -169,6 +169,13 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
     |   7 B |   7 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
 </details>
 
+<details><summary>EleutherAI</summary>
+
+- GPT-NeoX
+    | Size  | Parameters | Link                                                |
+    | ----- | ---------- | --------------------------------------------------- |
+    | 20 B | 20 B      | [Huggingface](https://huggingface.co/docs/transformers/model_doc/gpt_neox) \| [Original](https://github.com/EleutherAI/gpt-neox) |
+</details>
 
 <details><summary>Google</summary>
 
@@ -209,13 +216,7 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 
 
 
-<details><summary>EleutherAI</summary>
 
-- GPT-NeoX
-    | Size  | Parameters | Link                                                |
-    | ----- | ---------- | --------------------------------------------------- |
-    | 20 B | 20 B      | [Huggingface](https://huggingface.co/docs/transformers/model_doc/gpt_neox)\|[Original](https://github.com/EleutherAI/gpt-neox) |
-</details>
 
 
 ## Contributing
