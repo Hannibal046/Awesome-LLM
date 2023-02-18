@@ -133,6 +133,8 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 
 - [Colossal-AI] Open source solution replicates ChatGPT training process! Ready to go with only 1.6GB GPU memory and gives you 7.73 times faster training! [Link](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
 
+- [邱锡鹏] 大型语言模型的能力分析与应用 [Link](resources/大型语言模型的能力分析与应用%20-%2030min.pdf)
+
 ## Courses about LLM
 
 - [Stanford] CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF [Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
