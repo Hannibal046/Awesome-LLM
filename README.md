@@ -166,9 +166,9 @@ Scaling neural networks to hundreds of billions of parameters has enabled dramat
 ### Blink/RWKV
   | Size  | Parameters | Link                                                |
   | ----- | ---------- | --------------------------------------------------- |
-  | 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169b) |
-  | 430 M | 430 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-430b) |
-  | 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1.5b) |
+  | 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169m) |
+  | 430 M | 430 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-430m) |
+  | 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1b5) |
   |   3 B |   3 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-3b)   |
   |   7 B |   7 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
 
