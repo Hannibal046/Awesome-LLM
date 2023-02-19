@@ -64,6 +64,7 @@
 |      OPT       | 175B |      primarily English      |     Decoder     | [api](https://opt.alpa.ai) \| [ckpt](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT) | 2022-05 | [Paper](https://arxiv.org/pdf/2205.01068.pdf)                |
 |     BLOOM      | 176B |      multilingual,code      |     Decoder     | [api](https://huggingface.co/bigscience/bloom) \| [ckpt](https://huggingface.co/bigscience/bloom) | 2022-11 | [Paper](https://arxiv.org/pdf/2211.05100.pdf)                |
 |    GPT 3.0     | 175B |      primarily English      |     Decoder     |                [api](https://openai.com/api/)                | 2020-05 | [Paper](https://arxiv.org/pdf/2005.14165.pdf)                |
+|      LaMDA        | 137B |       Dialogue       |     Decoder     |          -           | 2022-01 | [Paper](https://arxiv.org/pdf/2201.08239.pdf)                |
 |      GLM       | 130B |       English,Chinese       |     Decoder     |          [ckpt](https://github.com/THUDM/GLM-130B)           | 2022-10 | [Paper](https://arxiv.org/pdf/2210.02414.pdf)                |
 |   Galactica    | 120B | English,code,Latex,DNA,etc. |     Decoder     |    [ckpt](https://huggingface.co/facebook/galactica-120b)    | 2022-11 | [Paper](https://arxiv.org/pdf/2211.09085.pdf)                |
 |      YaLM      | 100B |       English,Russian       |     Decoder     |         [ckpt](https://github.com/yandex/YaLM-100B)          | 2022-06 | [Blog](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6) |
