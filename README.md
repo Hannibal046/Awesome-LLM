@@ -76,7 +76,7 @@
 |       T5       | 11B  |           English           | Encoder-Decoder |            [ckpt](https://huggingface.co/t5-11b)             | 2019-10 | [Paper](https://jmlr.org/papers/v21/20-074.html)             |
 |    CPM-Bee     | 10B  |       English,Chinese       |     Decoder     |          [api](https://live.openbmb.org/models/bee)          | 2022-10 | [Paper](https://arxiv.org/pdf/2012.00413.pdf)                |
 | rwkv-4 |  7B  |           English           |      RWKV       |    [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)     | 2022-09 | [Github](https://github.com/BlinkDL/RWKV-LM)                 |
-| GPT-J |  6B  |           English           |      Decoder       |    [ckpt](https://huggingface.co/EleutherAI/gpt-j-6B)     | 2022-09 | [HuggingFace](https://huggingface.co/EleutherAI/gpt-j-6B)                 |
+| GPT-J |  6B  |           English           |      Decoder       |    [ckpt](https://huggingface.co/EleutherAI/gpt-j-6B)     | 2022-09 | [Github](https://github.com/kingoflolz/mesh-transformer-jax)                 |
 | GPT-Neo |  2.7B  |           English           |      Decoder       |    [ckpt](https://github.com/EleutherAI/gpt-neo)     | 2021-03 | [Github](https://github.com/EleutherAI/gpt-neo)                 |
 | GPT-Neo |  1.3B  |           English           |      Decoder       |    [ckpt](https://github.com/EleutherAI/gpt-neo)     | 2021-03 | [Github](https://github.com/EleutherAI/gpt-neo)                 |
 
