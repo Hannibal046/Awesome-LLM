@@ -77,7 +77,8 @@
 |    CPM-Bee     | 10B  |       English,Chinese       |     Decoder     |          [api](https://live.openbmb.org/models/bee)          | 2022-10 | [Paper](https://arxiv.org/pdf/2012.00413.pdf)                |
 | rwkv-4 |  7B  |           English           |      RWKV       |    [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)     | 2022-09 | [Github](https://github.com/BlinkDL/RWKV-LM)                 |
 | GPT-J |  6B  |           English           |      Decoder       |    [ckpt](https://huggingface.co/EleutherAI/gpt-j-6B)     | 2022-09 | [HuggingFace](https://huggingface.co/EleutherAI/gpt-j-6B)                 |
-
+| GPT-Neo |  2.7B  |           English           |      Decoder       |    [ckpt](https://github.com/EleutherAI/gpt-neo)     | 2021-03 | [Github](https://github.com/EleutherAI/gpt-neo)                 |
+| GPT-Neo |  1.3B  |           English           |      Decoder       |    [ckpt](https://github.com/EleutherAI/gpt-neo)     | 2021-03 | [Github](https://github.com/EleutherAI/gpt-neo)                 |
 
 ## ChatGPT Evaluation
 
