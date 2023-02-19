@@ -72,7 +72,7 @@
 |       T0       | 11B  |           English           | Encoder-Decoder |         [ckpt](https://huggingface.co/bigscience/T0)         | 2021-10 | [Paper](https://arxiv.org/pdf/2110.08207.pdf)                |
 |       T5       | 11B  |           English           | Encoder-Decoder |            [ckpt](https://huggingface.co/t5-11b)             | 2019-10 | [Paper](https://jmlr.org/papers/v21/20-074.html)             |
 |    CPM-Bee     | 10B  |       English,Chinese       |     Decoder     |          [api](https://live.openbmb.org/models/bee)          | 2022-10 | [Paper](https://arxiv.org/pdf/2012.00413.pdf)                |
-| rwkv-4-pile-7b |  7B  |           English           |      RWKV       |    [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)     | 2022-09 | [Github](https://github.com/BlinkDL/RWKV-LM)                 |
+| rwkv-4 |  7B  |           English           |      RWKV       |    [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)     | 2022-09 | [Github](https://github.com/BlinkDL/RWKV-LM)                 |
 
 
 ## ChatGPT Evaluation
