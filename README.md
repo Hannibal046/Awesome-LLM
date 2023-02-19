@@ -57,6 +57,7 @@
 |     Model      | Size |       Training Corpus       |  Architecture   |                           API/CKPT                           |  Date   | Origin                                                       |
 | :------------: | :--: | :-------------------------: | :-------------: | :----------------------------------------------------------: | :-----: | ------------------------------------------------------------ |
 |    ChatGPT     |  -   |              -              |     Decoder     |           [api](https://openai.com/blog/chatgpt/)            | 2022-11 | [Blog](https://openai.com/blog/chatgpt/)                     |
+|      GLaM      | 1.2T |      English      |     Decoder(MOE)     |                              -                               | 2021-12 | [Paper](https://arxiv.org/pdf/2112.06905.pdf)                |
 |      PaLM      | 540B |      multilingual,code      |     Decoder     |                              -                               | 2022-04 | [Paper](https://arxiv.org/pdf/2204.02311.pdf)                |
 |     MT-NLG     | 530B |           English           |     Decoder     |                              -                               | 2022-01 | [Paper](https://arxiv.org/pdf/2201.11990.pdf)                |
 |    J1-Jumbo    | 178B |           English           |     Decoder     |        [api](https://docs.ai21.com/docs/complete-api)        | 2021-08 | [Paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf) |
