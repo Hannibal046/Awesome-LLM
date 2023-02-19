@@ -1,29 +1,18 @@
-# Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+****# Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](resources/image8.gif)
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs:
 
-- [Awesome-LLM ](#awesome-llm-)
-  - [Milestone Papers](#milestone-papers)
-  - [LLM Leaderboard](#llm-leaderboard)
-  - [ChatGPT Evaluation](#chatgpt-evaluation)
-  - [LLM Training Frameworks](#llm-training-frameworks)
-  - [Tools for using LLM](#tools-for-using-llm)
-  - [Tutorials about LLM](#tutorials-about-llm)
-  - [Courses about LLM](#courses-about-llm)
-  - [Useful Resources](#useful-resources)
-  - [Publicly Available LLM APIs](#publicly-available-llm-apis)
-  - [Publicly Available LLM Checkpoints](#publicly-available-llm-checkpoints)
-    - [BigScience/BLOOM](#bigsciencebloom)
-    - [BigScience/T0](#bigsciencet0)
-    - [Blink/RWKV](#blinkrwkv)
-    - [Google/Flan-T5](#googleflan-t5)
-    - [Meta/OPT](#metaopt)
-    - [Meta/Galactica](#metagalactica)
-    - [EleutherAI/GPT-NeoX](#eleutheraigpt-neox)
-    - [Tsinghua/GLM](#tsinghuaglm)
-  - [Contributing](#contributing)
+- [Milestone Papers](#milestone-papers)
+- [LLM Leaderboard](#llm-leaderboard)
+- [ChatGPT Evaluation](#chatgpt-evaluation)
+- [LLM Training Frameworks](#llm-training-frameworks)
+- [Tools for using LLM](#tools-for-using-llm)
+- [Tutorials about LLM](#tutorials-about-llm)
+- [Courses about LLM](#courses-about-llm)
+- [Useful Resources](#useful-resources)
+- [Contributing](#contributing)
 
 ## Milestone Papers
 
@@ -65,10 +54,26 @@
 | 2023-01 | Flan 2022 Collection |   Google   | [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/pdf/2301.13688.pdf)                                                               |            |
 
 ## LLM Leaderboard
-| Model | Size |  Language |Sparse |API |Checkpoint | Date |Paper | 
-| :-----: | ----- | ----- | :-----: |----- | :-----: | ----- | ----- |
-| PaLM |  540B  |multilingual+code|-|:x:|:x:|2022-04|[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)|
-| GPT 3.0 | 175B |primarily English|-| [api](https://openai.com/api/)|:x:|2020-05|[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)| 
+|     Model      | Size |       Training Corpus       |  Architecture   |                           API/CKPT                           |  Date   | Paper                                                        |
+| :------------: | :--: | :-------------------------: | :-------------: | :----------------------------------------------------------: | :-----: | ------------------------------------------------------------ |
+|    ChatGPT     |  -   |              -              |     Decoder     |           [api](https://openai.com/blog/chatgpt/)            | 2022-11 |                                                              |
+|      PaLM      | 540B |      multilingual+code      |     Decoder     |                             :x:                              | 2022-04 | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) |
+|     MT-NLG     | 530B |           English           |     Decoder     |                             :x:                              | 2022-01 | [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/pdf/2201.11990.pdf) |
+|    J1-Jumbo    | 178B |           English           |     Decoder     |        [api](https://docs.ai21.com/docs/complete-api)        | 2021-08 | [JURASSIC-1: TECHNICAL DETAILS AND EVALUATION](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf) |
+|      OPT       | 175B |      primarily English      |     Decoder     | [api](https://opt.alpa.ai) \| [ckpt](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT) | 2022-05 | [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf) |
+|     BLOOM      | 176B |      multilingual+code      |     Decoder     | [api](https://huggingface.co/bigscience/bloom) \| [ckpt](https://huggingface.co/bigscience/bloom) | 2022-11 | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100.pdf) |
+|    GPT 3.0     | 175B |      primarily English      |     Decoder     |                [api](https://openai.com/api/)                | 2020-05 | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) |
+|      GLM       | 130B |       English+Chinese       |     Decoder     |          [ckpt](https://github.com/THUDM/GLM-130B)           | 2022-10 | [GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/pdf/2210.02414.pdf) |
+|   Galactica    | 120B | English+code+Latex+DNA,etc. |     Decoder     |    [ckpt](https://huggingface.co/facebook/galactica-120b)    | 2022-11 | [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf) |
+|      YaLM      | 100B |       English+Russian       |     Decoder     |         [ckpt](https://github.com/yandex/YaLM-100B)          | 2022-06 | [Yandex Publishes YaLM 100B. It’s the Largest GPT-Like Neural Network in Open Source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6) |
+|    GPT-NeoX    | 20B  |           English           |     Decoder     |        [ckpt](https://github.com/EleutherAI/gpt-neox)        | 2022-04 | [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/pdf/2204.06745.pdf) |
+|      UL2       | 20B  |           English           |    agnostic     | [ckpt](https://huggingface.co/google/ul2#:~:text=UL2%20is%20a%20unified%20framework%20for%20pretraining%20models,downstream%20fine-tuning%20is%20associated%20with%20specific%20pre-training%20schemes.) | 2022-05 | [Unifying Language Learning Paradigms](https://arxiv.org/pdf/2205.05131v1.pdf) |
+|    Flan-T5     | 11B  |           English           | Encoder-Decoder | [ckpt](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) | 2022-10 | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) |
+|       T0       | 11B  |           English           | Encoder-Decoder |         [ckpt](https://huggingface.co/bigscience/T0)         | 2021-10 | [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf) |
+|       T5       | 11B  |           English           | Encoder-Decoder |            [ckpt](https://huggingface.co/t5-11b)             | 2019-10 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://jmlr.org/papers/v21/20-074.html) |
+|    CPM-Bee     | 10B  |       English+Chinese       |     Decoder     |          [api](https://live.openbmb.org/models/bee)          | 2022-10 | [CPM: A Large-scale Generative Chinese Pre-trained Language Model](https://arxiv.org/pdf/2012.00413.pdf) |
+| rwkv-4-pile-7b |  7B  |           English           |      RWKV       |    [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)     | 2022-09 |                 
+
 
 ## ChatGPT Evaluation
 
@@ -167,100 +172,6 @@
 - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) \[2022-12-11\][Yao Fu]
 - [ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) \[2022-12-07\][Hung-yi Lee]
 - [Large Language Models: A New Moore&#39;s Law ](https://huggingface.co/blog/large-language-models) \[2021-10-26\]\[Huggingface\]
-
-## Publicly Available LLM APIs
-
-- [Alpa/OPT-175B](https://opt.alpa.ai)
-- [BLOOM](https://huggingface.co/bigscience/bloom)
-- [ChatGPT](https://openai.com/blog/chatgpt/)
-- [OpenAI](https://openai.com/api/)
-- [GLM-130B](https://huggingface.co/spaces/THUDM/GLM-130B)
-- [CPM-Bee](https://live.openbmb.org/models/bee)
-
-## Publicly Available LLM Checkpoints
-
-### BigScience/BLOOM
-
-| Size  | Parameters | Link                                                     |
-| ----- | ---------- | -------------------------------------------------------- |
-| 560 M | 560 M      | [Huggingface](https://huggingface.co/bigscience/bloom-560m) |
-| 1.1 B | 1.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.1b) |
-| 1.7 B | 1.7 B      | [Huggingface](https://huggingface.co/bigscience/bloom-1.7b) |
-| 3 B   | 3 B        | [Huggingface](https://huggingface.co/bigscience/bloom-3b)   |
-| 7.1 B | 7.1 B      | [Huggingface](https://huggingface.co/bigscience/bloom-7.1b) |
-| 176 B | 176 B      | [Huggingface](https://huggingface.co/bigscience/bloom)      |
-
-### BigScience/T0
-
-| Size | Parameters | Link                                                |
-| ---- | ---------- | --------------------------------------------------- |
-| 3 B  | 3 B        | [Huggingface](https://huggingface.co/bigscience/T0_3B) |
-| 11 B | 11 B       | [Huggingface](https://huggingface.co/bigscience/T0)    |
-
-### Blink/RWKV
-
-| Size  | Parameters | Link                                                        |
-| ----- | ---------- | ----------------------------------------------------------- |
-| 169 M | 169 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-169m) |
-| 430 M | 430 M      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-430m) |
-| 1.5 B | 1.5 B      | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-1b5)  |
-| 3 B   | 3 B        | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-3b)   |
-| 7 B   | 7 B        | [Huggingface](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)   |
-
-### Google/Flan-T5
-
-| Size  | Parameters | Link                                                                                                                                                      |
-| ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| small | 80 M       | [Huggingface](https://huggingface.co/google/flan-t5-small) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
-| base  | 250 M      | [Huggingface](https://huggingface.co/google/flan-t5-base) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)  |
-| large | 780 M      | [Huggingface](https://huggingface.co/google/flan-t5-large) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) |
-| xl    | 3 B        | [Huggingface](https://huggingface.co/google/flan-t5-xl) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)    |
-| xxl   | 11 B       | [Huggingface](https://huggingface.co/google/flan-t5-xxl) \| [Original](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)   |
-
-### Meta/OPT
-
-| Size  | Parameters | Link                                                 |
-| ----- | ---------- | ---------------------------------------------------- |
-| 125 M | 125 M      | [Huggingface](https://huggingface.co/facebook/opt-125m) |
-| 350 M | 350 M      | [Huggingface](https://huggingface.co/facebook/opt-350m) |
-| 1.3 B | 1.3 B      | [Huggingface](https://huggingface.co/facebook/opt-1.3b) |
-| 2.7 B | 2.7 B      | [Huggingface](https://huggingface.co/facebook/opt-2.7b) |
-| 6.7 B | 6.7 B      | [Huggingface](https://huggingface.co/facebook/opt-6.7b) |
-| 13 B  | 13 B       | [Huggingface](https://huggingface.co/facebook/opt-13b)  |
-| 30 B  | 30 B       | [Huggingface](https://huggingface.co/facebook/opt-30b)  |
-| 66 B  | 66 B       | [Huggingface](https://huggingface.co/facebook/opt-66b)  |
-
-### Meta/Galactica
-
-| Size     | Parameters | Link                                                       |
-| -------- | ---------- | ---------------------------------------------------------- |
-| mini     | 125 M      | [Huggingface](https://huggingface.co/facebook/galactica-125m) |
-| base     | 1.3 B      | [Huggingface](https://huggingface.co/facebook/galactica-1.3b) |
-| standard | 6.7 B      | [Huggingface](https://huggingface.co/facebook/galactica-6.7b) |
-| large    | 30 B       | [Huggingface](https://huggingface.co/facebook/galactica-30b)  |
-| huge     | 120 B      | [Huggingface](https://huggingface.co/facebook/galactica-120b) |
-
-### EleutherAI/GPT-NeoX
-
-| Size | Parameters | Link                                                                                                                     |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 20 B | 20 B       | [Huggingface](https://huggingface.co/docs/transformers/model_doc/gpt_neox)\|[Original](https://github.com/EleutherAI/gpt-neox) |
-
-### Tsinghua/GLM
-
-| Size              | Parameters | Link                                       |
-| ----------------- | ---------- | ------------------------------------------ |
-| GLM-Base          | 110M       | [Original](https://github.com/THUDM/GLM)      |
-| GLM-Large         | 335M       | [Original](https://github.com/THUDM/GLM)      |
-| GLM-Large-Chinese | 335M       | [Original](https://github.com/THUDM/GLM)      |
-| GLM-Doc           | 335M       | [Original](https://github.com/THUDM/GLM)      |
-| GLM-410M          | 410M       | [Original](https://github.com/THUDM/GLM)      |
-| GLM-515M          | 515M       | [Original](https://github.com/THUDM/GLM)      |
-| GLM-RoBERTa       | 335M       | [Original](https://github.com/THUDM/GLM)      |
-| GLM-2B            | 2B         | [Original](https://github.com/THUDM/GLM)      |
-| GLM-10B           | 10B        | [Original](https://github.com/THUDM/GLM)      |
-| GLM-10B-Chinese   | 10B        | [Original](https://github.com/THUDM/GLM)      |
-| GLM-130B          | 130B       | [Original](https://github.com/THUDM/GLM-130B) |
 
 ## Contributing
 
