@@ -1,8 +1,3 @@
-| col1 | col2 | col3 |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-
 # Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](resources/image8.gif)
