@@ -54,11 +54,11 @@
 | 2023-01 | Flan 2022 Collection |   Google   | [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/pdf/2301.13688.pdf)                                                               |            |
 
 ## LLM Leaderboard
-|     Model      | Size |       Training Corpus       |  Architecture   |                           API/CKPT                           |  Date   | Paper                                                        |
+|     Model      | Size |       Training Corpus       |  Architecture   |                           API/CKPT                           |  Date   | Origin                                                       |
 | :------------: | :--: | :-------------------------: | :-------------: | :----------------------------------------------------------: | :-----: | ------------------------------------------------------------ |
-|    ChatGPT     |  -   |              -              |     Decoder     |           [api](https://openai.com/blog/chatgpt/)            | 2022-11 |                                                              |
-|      PaLM      | 540B |      multilingual,code      |     Decoder     |                             :x:                              | 2022-04 | [Paper](https://arxiv.org/pdf/2204.02311.pdf)                |
-|     MT-NLG     | 530B |           English           |     Decoder     |                             :x:                              | 2022-01 | [Paper](https://arxiv.org/pdf/2201.11990.pdf)                |
+|    ChatGPT     |  -   |              -              |     Decoder     |           [api](https://openai.com/blog/chatgpt/)            | 2022-11 | [Blog](https://openai.com/blog/chatgpt/)                     |
+|      PaLM      | 540B |      multilingual,code      |     Decoder     |                              -                               | 2022-04 | [Paper](https://arxiv.org/pdf/2204.02311.pdf)                |
+|     MT-NLG     | 530B |           English           |     Decoder     |                              -                               | 2022-01 | [Paper](https://arxiv.org/pdf/2201.11990.pdf)                |
 |    J1-Jumbo    | 178B |           English           |     Decoder     |        [api](https://docs.ai21.com/docs/complete-api)        | 2021-08 | [Paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf) |
 |      OPT       | 175B |      primarily English      |     Decoder     | [api](https://opt.alpa.ai) \| [ckpt](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT) | 2022-05 | [Paper](https://arxiv.org/pdf/2205.01068.pdf)                |
 |     BLOOM      | 176B |      multilingual,code      |     Decoder     | [api](https://huggingface.co/bigscience/bloom) \| [ckpt](https://huggingface.co/bigscience/bloom) | 2022-11 | [Paper](https://arxiv.org/pdf/2211.05100.pdf)                |
@@ -72,7 +72,7 @@
 |       T0       | 11B  |           English           | Encoder-Decoder |         [ckpt](https://huggingface.co/bigscience/T0)         | 2021-10 | [Paper](https://arxiv.org/pdf/2110.08207.pdf)                |
 |       T5       | 11B  |           English           | Encoder-Decoder |            [ckpt](https://huggingface.co/t5-11b)             | 2019-10 | [Paper](https://jmlr.org/papers/v21/20-074.html)             |
 |    CPM-Bee     | 10B  |       English,Chinese       |     Decoder     |          [api](https://live.openbmb.org/models/bee)          | 2022-10 | [Paper](https://arxiv.org/pdf/2012.00413.pdf)                |
-| rwkv-4-pile-7b |  7B  |           English           |      RWKV       |    [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)     | 2022-09 |                                                              |
+| rwkv-4-pile-7b |  7B  |           English           |      RWKV       |    [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)     | 2022-09 | [Github](https://github.com/BlinkDL/RWKV-LM)                 |
 
 
 ## ChatGPT Evaluation
