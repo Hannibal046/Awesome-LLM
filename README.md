@@ -12,7 +12,7 @@
 - [Tutorials about LLM](#tutorials-about-llm)
 - [Courses about LLM](#courses-about-llm)
 - [Opinions about LLM](#opinions-about-llm)
-- [Other Awesome List](#other-awesome-list)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## Milestone Papers
