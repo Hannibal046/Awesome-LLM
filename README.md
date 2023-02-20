@@ -4,16 +4,19 @@
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs:
 
-- [Milestone Papers](#milestone-papers)
-- [LLM Leaderboard](#llm-leaderboard)
-- [ChatGPT Evaluation](#chatgpt-evaluation)
-- [LLM Training Frameworks](#llm-training-frameworks)
-- [Tools for using LLM](#tools-for-using-llm)
-- [Tutorials about LLM](#tutorials-about-llm)
-- [Courses about LLM](#courses-about-llm)
-- [Opinions about LLM](#opinions-about-llm)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
+
+- [Awesome-LLM ](#awesome-llm-)
+  - [Milestone Papers](#milestone-papers)
+  - [LLM Leaderboard](#llm-leaderboard)
+  - [ChatGPT Evaluation](#chatgpt-evaluation)
+  - [LLM Training Frameworks](#llm-training-frameworks)
+  - [Tools for using LLM](#tools-for-using-llm)
+  - [Tutorials about LLM](#tutorials-about-llm)
+  - [Courses about LLM](#courses-about-llm)
+  - [Opinions about LLM](#opinions-about-llm)
+  - [Other Awesome Lists](#other-awesome-lists)
+  - [Other Useful Resources](#other-useful-resources)
+  - [Contributing](#contributing)
 
 ## Milestone Papers
 
@@ -196,6 +199,10 @@
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - A Chinese collection of prompt examples to be used with the ChatGPT model.
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
 - [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) -  A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models.
+
+## Other Useful Resources
+
+- [ShareGPT](https://sharegpt.com) - Share your wildest ChatGPT conversations with one click.
 
 ## Contributing
 
