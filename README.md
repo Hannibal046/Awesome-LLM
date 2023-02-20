@@ -20,6 +20,16 @@
 
 ## Milestone Papers
 
+If you're interested in the field of LLM, you may find the following list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
+
+- [Chain-of-Thought](paper_list/chain_of_thougt.md)
+- [In-Context-Learning](paper_list/in_context_learning.md)
+- [RLHF](paper_list/RLHF.md)
+- [Prompt-Tuning](paper_list/prompt_tuning.md)
+- [MOE](paper_list/moe.md)
+- [Code-Pretraining](paper_list/code_pretraining.md)
+- [LLM-Evaluation](paper_list/protein_pretraining.md)
+
 |  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | 2017-06 |     Transformers     |      Google      | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)                                                                                                                      |   NeurIPS   |
