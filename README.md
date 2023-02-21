@@ -59,6 +59,7 @@
 
 If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
 
+:exclamation: **We would greatly appreciate and welcome your contribution to the following list.**
 - [Chain-of-Thought](paper_list/chain_of_thougt.md)
 - [In-Context-Learning](paper_list/in_context_learning.md)
 - [RLHF](paper_list/RLHF.md)
