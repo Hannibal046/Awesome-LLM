@@ -20,16 +20,6 @@
 
 ## Milestone Papers
 
-If you're interested in the field of LLM, you may find the following list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
-
-- [Chain-of-Thought](paper_list/chain_of_thougt.md)
-- [In-Context-Learning](paper_list/in_context_learning.md)
-- [RLHF](paper_list/RLHF.md)
-- [Prompt-Tuning](paper_list/prompt_tuning.md)
-- [MOE](paper_list/moe.md)
-- [Code-Pretraining](paper_list/code_pretraining.md)
-- [LLM-Evaluation](paper_list/protein_pretraining.md)
-
 |  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | 2017-06 |     Transformers     |      Google      | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)                                                                                                                      |   NeurIPS   |
@@ -66,6 +56,16 @@ If you're interested in the field of LLM, you may find the following list of mil
 | 2022-11 |        BLOOM        |    BigScience    | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100.pdf)                                                                                |            |
 | 2022-11 |      Galactica      |       Meta       | [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf)                                                                                                  |            |
 | 2023-01 | Flan 2022 Collection |      Google      | [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/pdf/2301.13688.pdf)                                                               |            |
+
+If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
+
+- [Chain-of-Thought](paper_list/chain_of_thougt.md)
+- [In-Context-Learning](paper_list/in_context_learning.md)
+- [RLHF](paper_list/RLHF.md)
+- [Prompt-Tuning](paper_list/prompt_tuning.md)
+- [MOE](paper_list/moe.md)
+- [Code-Pretraining](paper_list/code_pretraining.md)
+- [LLM-Evaluation](paper_list/protein_pretraining.md)
 
 ## LLM Leaderboard
 
