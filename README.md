@@ -67,6 +67,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [MOE](paper_list/moe.md)
 - [Code-Pretraining](paper_list/code_pretraining.md)
 - [LLM-Evaluation](paper_list/protein_pretraining.md)
+- [Acceleration](paper_list/acceleration.md)
 
 ## LLM Leaderboard
 
