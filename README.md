@@ -155,7 +155,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 > [This tutorial](https://jax.readthedocs.io/en/latest/notebooks/Distributed_arrays_and_automatic_parallelization.html) discusses parallelism via jax.Array.
 
-## Tools for using LLM
+## Tools for deploying LLM
 
 🦜️🔗 [LangChain](https://github.com/hwchase17/langchain)
 
