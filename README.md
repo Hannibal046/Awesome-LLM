@@ -220,6 +220,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 - [ShareGPT](https://sharegpt.com) - Share your wildest ChatGPT conversations with one click.
 - [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
+- [MOSS](https://txsun1997.github.io/blogs/moss.html) - a conversational language model like ChatGPT
 
 ## Contributing
 
