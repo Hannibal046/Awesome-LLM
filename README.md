@@ -105,6 +105,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - ChatGPT: Jack of all trades, master of none [Link](https://arxiv.org/pdf/2302.10724.pdf)
 - Is ChatGPT a General-Purpose Natural Language Processing Task Solver? [Link](https://arxiv.org/pdf/2302.06476.pdf)
 - Is ChatGPT A Good Translator? A Preliminary Study [Link](https://arxiv.org/pdf/2301.08745.pdf)
+- Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT [Link](https://arxiv.org/pdf/2302.10198.pdf)
 
 ## LLM Training Frameworks
 
