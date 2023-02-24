@@ -226,6 +226,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
 - [MOSS](https://txsun1997.github.io/blogs/moss.html) - a conversational language model like ChatGPT
 - [500+ Best AI Tools](https://vaulted-polonium-23c.notion.site/500-Best-AI-Tools-e954b36bf688404ababf74a13f98d126)
+- [Cohere Summarize Beta](https://txt.cohere.ai/summarize-beta/) - Introducing Cohere Summarize Beta: A New Endpoint for Text Summarization
 
 ## Contributing
 
