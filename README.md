@@ -103,6 +103,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 ## ChatGPT Evaluation
 
 - Is ChatGPT A Good Translator? A Preliminary Study [paper](https://arxiv.org/abs/2301.08745v2) | [code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
+  >:exclamation: They only randomly select 50 sentences for evaluation, since there is no available API.
 - Is ChatGPT a General-Purpose Natural Language Processing Task Solver? [paper](https://arxiv.org/abs/2302.06476)
 - ChatGPT: Jack of all trades, master of none [paper](https://arxiv.org/abs/2302.10724)
 - Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT [paper](https://arxiv.org/abs/2302.10198)
