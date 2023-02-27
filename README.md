@@ -114,6 +114,10 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - News Summarization and Evaluation in the Era of GPT-3 [paper](https://arxiv.org/abs/2209.12356)
 - Benchmarking Large Language Models for News Summarization [paper](https://arxiv.org/abs/2301.13848)
 
+## ChatGPT Augmentation
+- Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback [Paper](https://arxiv.org/abs/2302.12813)
+- Augmented Language Models: a Survey [Paper](https://arxiv.org/abs/2302.07842)
+
 ## LLM Training Frameworks
 
 <div align=center>
