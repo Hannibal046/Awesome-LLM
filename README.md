@@ -81,7 +81,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 There are three important steps for a ChatGPT-like LLM: 
 1. **Pre-training** 
 2. **Instruction Tuning**
-3. **Alignment**. 
+3. **Alignment**
 
 We want to make an apple-to-apple comparison here:
 
