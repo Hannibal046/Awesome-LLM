@@ -137,6 +137,7 @@ We want to make an apple-to-apple comparison here:
   >:exclamation: No large dataset evaluation, no few-shot in-context learning evaluation, due to lack of API.
 - ChatGPT: Jack of all trades, master of none [paper](https://arxiv.org/abs/2302.10724)
 - Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT [paper](https://arxiv.org/abs/2302.10198)
+- On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective [paper](https://arxiv.org/abs/2302.12095)
 - Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization [paper](https://arxiv.org/abs/2302.08081)
 - News Summarization and Evaluation in the Era of GPT-3 [paper](https://arxiv.org/abs/2209.12356)
 - Benchmarking Large Language Models for News Summarization [paper](https://arxiv.org/abs/2301.13848)
