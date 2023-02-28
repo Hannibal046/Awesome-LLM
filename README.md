@@ -8,9 +8,13 @@
 - [Awesome-LLM ](#awesome-llm-)
   - [Milestone Papers](#milestone-papers)
   - [LLM Leaderboard](#llm-leaderboard)
+    - [Pre-trained LLM](#pre-trained-llm)
+    - [Instruction finetuend LLM](#instruction-finetuend-llm)
+    - [Aligned LLM](#aligned-llm)
   - [ChatGPT Evaluation](#chatgpt-evaluation)
+  - [ChatGPT Augmentation](#chatgpt-augmentation)
   - [LLM Training Frameworks](#llm-training-frameworks)
-  - [Tools for using LLM](#tools-for-using-llm)
+  - [Tools for deploying LLM](#tools-for-deploying-llm)
   - [Tutorials about LLM](#tutorials-about-llm)
   - [Courses about LLM](#courses-about-llm)
   - [Opinions about LLM](#opinions-about-llm)
@@ -74,9 +78,17 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 ## LLM Leaderboard
 
+There are three important steps for a ChatGPT-like LLM: 
+1. **Pre-training** 
+2. **Instruction Tuning**
+3. **Alignment**. 
+
+We want to make an apple-to-apple comparison here:
+
+### Pre-trained LLM
+
 |       Model       | Size |       Training Corpus       |  Architecture  |                                                                                               Access                                                                                               |  Date  | Origin                                                                                                                        |
 | :----------------: | :--: | :-------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: | ----------------------------------------------------------------------------------------------------------------------------- |
-|      ChatGPT      |  -  |              -              |     Decoder     |                                                                                 [demo](https://openai.com/blog/chatgpt/)\|[api](https://share.hsforms.com/1u4goaXwDRKC9-x9IvKno0A4sk30)   | 2022-11 | [Blog](https://openai.com/blog/chatgpt/)                            
 | Switch Transformer | 1.6T |        multilingual        |  Decoder(MOE)  |                                                                                                   -                                                                                                   | 2021-01 | [Paper](https://arxiv.org/pdf/2101.03961.pdf)                                                                                    |
 |        GLaM        | 1.2T |           English           |  Decoder(MOE)  |                                                                                                   -                                                                                                   | 2021-12 | [Paper](https://arxiv.org/pdf/2112.06905.pdf)                                                                                    |
 |        PaLM        | 540B |      multilingual,code      |     Decoder     |                                                                                                   -                                                                                                   | 2022-04 | [Paper](https://arxiv.org/pdf/2204.02311.pdf)                                                                                    |
@@ -87,20 +99,35 @@ If you're interested in the field of LLM, you may find the above list of milesto
 |      GPT 3.0      | 175B |      primarily English      |     Decoder     |                                                                                      [api](https://openai.com/api/)                                                                                      | 2020-05 | [Paper](https://arxiv.org/pdf/2005.14165.pdf)                                                                                    |
 |       LaMDA       | 137B |          Dialogue          |     Decoder     |                                                                                                   -                                                                                                   | 2022-01 | [Paper](https://arxiv.org/pdf/2201.08239.pdf)                                                                                    |
 |        GLM        | 130B |       English,Chinese       |     Decoder     |                                                                                [ckpt](https://github.com/THUDM/GLM-130B)                                                                                | 2022-10 | [Paper](https://arxiv.org/pdf/2210.02414.pdf)                                                                                    |
-|     Galactica     | 120B | English,code,Latex,DNA,etc. |     Decoder     |                                                                          [ckpt](https://huggingface.co/facebook/galactica-120b)                                                                          | 2022-11 | [Paper](https://arxiv.org/pdf/2211.09085.pdf)                                                                                    |
 |        YaLM        | 100B |       English,Russian       |     Decoder     |                                                                               [ckpt](https://github.com/yandex/YaLM-100B)                                                                               | 2022-06 | [Blog](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6) |
 |       LLaMA       |  65B  |           Mixed           |      Decoder      |                                                                          [ckpt](https://github.com/facebookresearch/llama)                                                                          | 2022-09 | [Paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)                                                                                     |
 |      GPT-NeoX      | 20B |           English           |     Decoder     |                                                                              [ckpt](https://github.com/EleutherAI/gpt-neox)                                                                              | 2022-04 | [Paper](https://arxiv.org/pdf/2204.06745.pdf)                                                                                    |
 |        UL2        | 20B |           English           |    agnostic    | [ckpt](https://huggingface.co/google/ul2#:~:text=UL2%20is%20a%20unified%20framework%20for%20pretraining%20models,downstream%20fine-tuning%20is%20associated%20with%20specific%20pre-training%20schemes.) | 2022-05 | [Paper](https://arxiv.org/pdf/2205.05131v1.pdf)                                                                                  |
-|      Flan-T5      | 11B |           English           | Encoder-Decoder |                                                       [ckpt](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)                                                       | 2022-10 | [Paper](https://arxiv.org/pdf/2210.11416.pdf)                                                                                    |
-|    鹏程.盘古α    | 13B |           Chinese           |     Decoder     |                                                      [ckpt](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α#模型下载)                                                      | 2021-04 | [Paper](https://arxiv.org/pdf/2104.12369.pdf)                                                                                    |
-|         T0         | 11B |           English           | Encoder-Decoder |                                                                               [ckpt](https://huggingface.co/bigscience/T0)                                                                               | 2021-10 | [Paper](https://arxiv.org/pdf/2110.08207.pdf)                                                                                    |
+|    鹏程.盘古α    | 13B |           Chinese           |     Decoder     |                                                      [ckpt](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α#模型下载)                                                      | 2021-04 | [Paper](https://arxiv.org/pdf/2104.12369.pdf)                                                                                    |                                                                                 |
 |         T5         | 11B |           English           | Encoder-Decoder |                                                                                  [ckpt](https://huggingface.co/t5-11b)                                                                                  | 2019-10 | [Paper](https://jmlr.org/papers/v21/20-074.html)                                                                                 |
 |      CPM-Bee      | 10B |       English,Chinese       |     Decoder     |                                                                                [api](https://live.openbmb.org/models/bee)                                                                                | 2022-10 | [Paper](https://arxiv.org/pdf/2012.00413.pdf)                                                                                    |
 |       rwkv-4       |  7B  |           English           |      RWKV      |                                                                          [ckpt](https://huggingface.co/BlinkDL/rwkv-4-pile-7b)                                                                          | 2022-09 | [Github](https://github.com/BlinkDL/RWKV-LM)                                                                                     |
 |       GPT-J       |  6B  |           English           |     Decoder     |                                                                            [ckpt](https://huggingface.co/EleutherAI/gpt-j-6B)                                                                            | 2022-09 | [Github](https://github.com/kingoflolz/mesh-transformer-jax)                                                                     |
 |      GPT-Neo      | 2.7B |           English           |     Decoder     |                                                                              [ckpt](https://github.com/EleutherAI/gpt-neo)                                                                              | 2021-03 | [Github](https://github.com/EleutherAI/gpt-neo)                                                                                  |
 |      GPT-Neo      | 1.3B |           English           |     Decoder     |                                                                              [ckpt](https://github.com/EleutherAI/gpt-neo)                                                                              | 2021-03 | [Github](https://github.com/EleutherAI/gpt-neo)                                                                                  |
+
+### Instruction finetuend LLM
+|       Model       | Size |       Training Corpus       |  Architecture  |                                                                                               Access                                                                                               |  Date  | Origin                                                                                                                        |
+| :----------------: | :--: | :-------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: | ----------------------------------------------------------------------------------------------------------------------------- |
+|Flan-PaLM| 540B |English| Decoder |-|2022-10|[Paper](https://arxiv.org/pdf/2210.11416.pdf)|
+| InstructGPT |175B| Enligsh| Decoder | [api](https://platform.openai.com/overview) | 2022-03 | [Paper](https://arxiv.org/pdf/2203.02155.pdf) |
+|Galactica|120B|English,code,Latex,DNA,etc.|Decoder|[ckpt](https://huggingface.co/facebook/galactica-120b)|2022-11| [Paper](https://arxiv.org/pdf/2211.09085.pdf)|
+| Gopher | - | - | - | - | - | - |
+| Chinchilla | - | - | - | - | - |- |
+|Flan-T5| 11B |English| Encoder-Decoder |[ckpt](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)|2022-10|[Paper](https://arxiv.org/pdf/2210.11416.pdf)|
+|T0|11B|English|Encoder-Decoder|[ckpt](https://huggingface.co/bigscience/T0)|2021-10|[Paper](https://arxiv.org/pdf/2110.08207.pdf)
+### Aligned LLM
+|       Model       | Size |       Training Corpus       |  Architecture  |                                                                                               Access                                                                                               |  Date  | Origin                                                                                                                        |
+| :----------------: | :--: | :-------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: | ----------------------------------------------------------------------------------------------------------------------------- |
+|      ChatGPT      |  -  |              -              |     Decoder     |                                                                                 [demo](https://openai.com/blog/chatgpt/)\|[api](https://share.hsforms.com/1u4goaXwDRKC9-x9IvKno0A4sk30)   | 2022-11 | [Blog](https://openai.com/blog/chatgpt/)      |
+| Sparrow  | 70B | - | - | - | 2022-09 | [Paper](https://arxiv.org/pdf/2209.14375.pdf)| 
+| Claude  | - | - | - | - | - | - |
+
 
 ## ChatGPT Evaluation
 
@@ -181,6 +208,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 > Use ChatGPT On Wechat via wechaty
 
 ## Tutorials about LLM
+- [Yao Fu] 预训练，指令微调，对齐，专业化：论大语言模型能力的来源 [Bilibili](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=1e55c5426b48b37e901ff0f78992e33f)
 - [Hung-yi Lee] ChatGPT 原理剖析 [Youtube](https://www.youtube.com/watch?v=yiY4nPOzJEg&list=RDCMUC2ggjtuuWvxrHHHiaDH1dlQ&index=2)
 - [Jay Mody] GPT in 60 Lines of NumPy [Link](https://jaykmody.com/blog/gpt-from-scratch/)
 - [ICML 2022] Welcome to the &#34;Big Model&#34; Era: Techniques and Systems to Train and Serve Bigger Models [Link](https://icml.cc/virtual/2022/tutorial/18440)
