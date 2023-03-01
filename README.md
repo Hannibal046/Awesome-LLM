@@ -115,6 +115,7 @@ We want to make an apple-to-apple comparison here:
 |       Model       | Size |       Training Corpus       |  Architecture  |                                                                                               Access                                                                                               |  Date  | Origin                                                                                                                        |
 | :----------------: | :--: | :-------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: | ----------------------------------------------------------------------------------------------------------------------------- |
 |Flan-PaLM| 540B |English| Decoder |-|2022-10|[Paper](https://arxiv.org/pdf/2210.11416.pdf)|
+|BLOOMZ| 176B |multilingual,code| Decoder | [ckpt](https://huggingface.co/bigscience/bloomz) |2022-11|[Paper](https://arxiv.org/pdf/2211.01786.pdf)|
 | InstructGPT |175B| Enligsh| Decoder | [api](https://platform.openai.com/overview) | 2022-03 | [Paper](https://arxiv.org/pdf/2203.02155.pdf) |
 |Galactica|120B|English,code,Latex,DNA,etc.|Decoder|[ckpt](https://huggingface.co/facebook/galactica-120b)|2022-11| [Paper](https://arxiv.org/pdf/2211.09085.pdf)|
 | Gopher | - | - | - | - | - | - |
