@@ -118,6 +118,7 @@ We want to make an apple-to-apple comparison here:
 |BLOOMZ| 176B |multilingual,code| Decoder | [ckpt](https://huggingface.co/bigscience/bloomz) |2022-11|[Paper](https://arxiv.org/pdf/2211.01786.pdf)|
 | InstructGPT |175B| Enligsh| Decoder | [api](https://platform.openai.com/overview) | 2022-03 | [Paper](https://arxiv.org/pdf/2203.02155.pdf) |
 |Galactica|120B|English,code,Latex,DNA,etc.|Decoder|[ckpt](https://huggingface.co/facebook/galactica-120b)|2022-11| [Paper](https://arxiv.org/pdf/2211.09085.pdf)|
+| Flan-UL2| 20B  | - | Decoder | [ckpt](https://github.com/google-research/google-research/tree/master/ul2)|2023-03 | [Blog](https://www.yitay.net/blog/flan-ul2-20b)|
 | Gopher | - | - | - | - | - | - |
 | Chinchilla | - | - | - | - | - |- |
 |Flan-T5| 11B |English| Encoder-Decoder |[ckpt](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)|2022-10|[Paper](https://arxiv.org/pdf/2210.11416.pdf)|
