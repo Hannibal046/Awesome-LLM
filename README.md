@@ -1,26 +1,25 @@
-# Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+****# Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](resources/image8.gif)
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs:
 
 
-- [Awesome-LLM ](#awesome-llm-)
-  - [Milestone Papers](#milestone-papers)
-  - [LLM Leaderboard](#llm-leaderboard)
-    - [Pre-trained LLM](#pre-trained-llm)
-    - [Instruction finetuend LLM](#instruction-finetuend-llm)
-    - [Aligned LLM](#aligned-llm)
-  - [ChatGPT Evaluation](#chatgpt-evaluation)
-  - [ChatGPT Augmentation](#chatgpt-augmentation)
-  - [LLM Training Frameworks](#llm-training-frameworks)
-  - [Tools for deploying LLM](#tools-for-deploying-llm)
-  - [Tutorials about LLM](#tutorials-about-llm)
-  - [Courses about LLM](#courses-about-llm)
-  - [Opinions about LLM](#opinions-about-llm)
-  - [Other Awesome Lists](#other-awesome-lists)
-  - [Other Useful Resources](#other-useful-resources)
-  - [Contributing](#contributing)
+- [Milestone Papers](#milestone-papers)
+- [LLM Leaderboard](#llm-leaderboard)
+  - [Pre-trained LLM](#pre-trained-llm)
+  - [Instruction finetuend LLM](#instruction-finetuend-llm)
+  - [Aligned LLM](#aligned-llm)
+- [ChatGPT Evaluation](#chatgpt-evaluation)
+- [ChatGPT Augmentation](#chatgpt-augmentation)
+- [LLM Training Frameworks](#llm-training-frameworks)
+- [Tools for deploying LLM](#tools-for-deploying-llm)
+- [Tutorials about LLM](#tutorials-about-llm)
+- [Courses about LLM](#courses-about-llm)
+- [Opinions about LLM](#opinions-about-llm)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Other Useful Resources](#other-useful-resources)
+- [Contributing](#contributing)
 
 ## Milestone Papers
 
@@ -77,6 +76,10 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Acceleration](paper_list/acceleration.md)
 
 ## LLM Leaderboard
+<div align=center>
+<img src="resources/creepy_llm.jpeg" width="500">
+</div>
+
 
 There are three important steps for a ChatGPT-like LLM: 
 1. **Pre-training** 
