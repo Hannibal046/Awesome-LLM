@@ -136,6 +136,7 @@ We want to make an apple-to-apple comparison here:
 
 ## ChatGPT Evaluation
 
+- How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection [paper](https://arxiv.org/abs/2301.07597) | [project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 - Is ChatGPT A Good Translator? A Preliminary Study [paper](https://arxiv.org/abs/2301.08745v2) | [code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
   >:exclamation: They only randomly select 50 sentences for evaluation, since there is no available API.
 - Is ChatGPT a General-Purpose Natural Language Processing Task Solver? [paper](https://arxiv.org/abs/2302.06476)
