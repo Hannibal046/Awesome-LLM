@@ -237,6 +237,7 @@ We want to make an apple-to-apple comparison here:
 
 ## Courses about LLM
 
+- [Princeton] Understanding Large Language Models [主页](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [OpenBMB] 大模型公开课 [主页](https://www.openbmb.org/community/course)
 - [Stanford] CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF [Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
 - [Stanford] CS324-Large Language Models [Homepage](https://stanford-cs324.github.io/winter2022/)
