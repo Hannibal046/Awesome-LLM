@@ -77,7 +77,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 - [LLM-Application](paper_list/application.md)
 
-  > Using LLM to do some really cool stuff
+  > Use LLM to do some really cool stuff
 
 - [LLM-Augmentation](paper_list/augmentation.md)
 

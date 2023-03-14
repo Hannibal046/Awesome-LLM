@@ -1,6 +1,6 @@
 # Application
 
-> Augment LLM in different aspects including faithfulness, expressiveness, domain-specific knowledge etc.
+> Use LLM to do some really cool stuff
 
 ## Papers
 
