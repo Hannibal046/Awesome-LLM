@@ -269,6 +269,7 @@ We want to make an apple-to-apple comparison here:
 - [Large Language Model Training in 2023](https://research.aimultiple.com/large-language-model-training/) \[2023-02-03][Cem Dilmegani]
 - [What Are Large Language Models Used For? ](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b) \[2023-01-26][NVIDIA]
 - [Large Language Models: A New Moore&#39;s Law ](https://huggingface.co/blog/large-language-models) \[2021-10-26\]\[Huggingface\]
+- [ChatGPT: potential, prospects, and limitations](https://doi.org/10.1631/FITEE.2300089) \[2023-02-28\]\[FITEE\]
 
 ## Other Awesome Lists
 
