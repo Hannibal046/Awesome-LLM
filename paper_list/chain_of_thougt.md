@@ -4,7 +4,9 @@
 
 ## Papers
 
-- **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** (2021-01), Jason Wei et al. [[pdf]](https://arxiv.org/abs/2201.11903)
+### 2021
+
+- (2021-01) **Chain of Thought Prompting Elicits Reasoning in Large Language Models.**  [paper](https://arxiv.org/abs/2201.11903)
 
   > The first paper propose the idea of chain-of-thought
 
