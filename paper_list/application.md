@@ -11,6 +11,8 @@
 ### 2023
 
 - (2023-03) **Mixture of Soft Prompts for Controllable Data Generation** [paper](https://arxiv.org/pdf/2303.01580.pdf)
+- (2023-03) **FaceChat: An Emotion-Aware Face-to-face Dialogue Framework** [paper](https://arxiv.org/abs/2303.07316)
+- (2023-03) **Large Language Models in the Workplace: A Case Study on Prompt Engineering for Job Type Classification** [paper](https://arxiv.org/abs/2303.07142)
 
 ## Useful Resources
 

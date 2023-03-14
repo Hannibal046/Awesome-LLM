@@ -28,8 +28,15 @@
 
 - (2023-02) **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization** [paper](https://arxiv.org/abs/2302.08081)
 
-- (2023-03) **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks.** [paper](https://arxiv.org/abs/2303.00293)
 - (2023-02) **ChatGPT: potential, prospects, and limitations** [paper](https://doi.org/10.1631/FITEE.2300089)
+
+- (2023-03) **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks.** [paper](https://arxiv.org/abs/2303.00293)
+
+- (2023-03) **Consistency Analysis of ChatGPT** [paper](https://arxiv.org/abs/2303.06273)
+
+- (2023-03) **Could a Large Language Model be Conscious?** [paper](https://arxiv.org/abs/2303.07103)
+
+- (2023-03) **Susceptibility to Influence of Large Language Models** [paper](https://arxiv.org/abs/2303.06074)
 
 ## Useful Resources
 

@@ -86,10 +86,6 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
   > Finetune a language model on a collection of tasks described via instructions
 
-- [MOE](paper_list/moe.md)
-
-  > Mixture-of-experts architecture for large language models
-
 - [LLM-Evaluation](paper_list/evaluation.md)
 
   > Evaluate different LLMs including ChatGPT in different fields
@@ -105,6 +101,10 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [LLM-Augmentation](paper_list/augmentation.md)
 
   > Augment LLM in different aspects including faithfulness, expressiveness, domain-specific knowledge etc.
+  
+- [LLM-Detection](paper_list/detection.md)
+
+  > Detect LLM-generated text from texts written by humans
 
 ## LLM Leaderboard
 <div align=center>
