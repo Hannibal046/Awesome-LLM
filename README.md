@@ -66,25 +66,6 @@
 If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link (it is possible that there are overlaps between different subfields):
 
 (:exclamation: **We would greatly appreciate and welcome your contribution to the following list. :exclamation:**)
-- [Chain-of-Thought](paper_list/chain_of_thougt.md)
-
-  > Chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning.
-
-- [In-Context-Learning](paper_list/in_context_learning.md)
-
-  > Large language models (LLMs) demonstrate an in-context learning (ICL) ability, that is, learning from a few examples in the context.
-
-- [RLHF](paper_list/RLHF.md)
-
-  > Reinforcement Learning from Human Preference
-
-- [Prompt-Learning](paper_list/prompt_learning.md)
-
-  > A Good Prompt is Worth 1,000 Words
-
-- [Instruction-Tuning](paper_list/instruction-tuning.md)
-
-  > Finetune a language model on a collection of tasks described via instructions
 
 - [LLM-Evaluation](paper_list/evaluation.md)
 
@@ -105,6 +86,26 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [LLM-Detection](paper_list/detection.md)
 
   > Detect LLM-generated text from texts written by humans
+
+- [Chain-of-Thought](paper_list/chain_of_thougt.md)
+
+  > Chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning.
+
+- [In-Context-Learning](paper_list/in_context_learning.md)
+
+  > Large language models (LLMs) demonstrate an in-context learning (ICL) ability, that is, learning from a few examples in the context.
+
+- [RLHF](paper_list/RLHF.md)
+
+  > Reinforcement Learning from Human Preference
+
+- [Prompt-Learning](paper_list/prompt_learning.md)
+
+  > A Good Prompt is Worth 1,000 Words
+
+- [Instruction-Tuning](paper_list/instruction-tuning.md)
+
+  > Finetune a language model on a collection of tasks described via instructions
 
 ## LLM Leaderboard
 <div align=center>
