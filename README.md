@@ -296,7 +296,7 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 - [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) -  A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models.
 - [LLM Reading List](https://github.com/crazyofapple/Reading_groups/) - A paper & resource list of large language models.
 - [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) - Collection of papers and resources on Reasoning using Language Models.
-- [Chain-of-Thought](https://github.com/FranxYao/chain-of-thought-hub) - Measuring LLMs' Reasoning Performance
+- [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) - Measuring LLMs' Reasoning Performance
 
 ## Other Useful Resources
 
