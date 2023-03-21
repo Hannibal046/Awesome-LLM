@@ -38,5 +38,7 @@
 
 - (2023-03) **Susceptibility to Influence of Large Language Models** [paper](https://arxiv.org/abs/2303.06074)
 
+- (2023-03) **A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models** [paper](https://arxiv.org/abs/2303.10420)
+
 ## Useful Resources
 
