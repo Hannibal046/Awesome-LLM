@@ -170,7 +170,7 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 | GPT 4  | - | - | - | 2023-03 | [Blog](https://openai.com/research/gpt-4)|
 |      ChatGPT      |  -  |     Decoder     |                                                                                 [demo](https://openai.com/blog/chatgpt/)\|[api](https://share.hsforms.com/1u4goaXwDRKC9-x9IvKno0A4sk30)   | 2022-11 | [Blog](https://openai.com/blog/chatgpt/)      |
 | Sparrow  | 70B | - | - | 2022-09 | [Paper](https://arxiv.org/pdf/2209.14375.pdf)|
-| Claude  | - | - | - | - | - |
+| Claude  | - | - | [demo](https://poe.com/claude)\|[api](https://www.anthropic.com/earlyaccess) | 2023-03 | [Blog](https://www.anthropic.com/index/introducing-claude) |
 
 ---
 
