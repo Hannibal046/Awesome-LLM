@@ -297,6 +297,7 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 - [LLM Reading List](https://github.com/crazyofapple/Reading_groups/) - A paper & resource list of large language models.
 - [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) - Collection of papers and resources on Reasoning using Language Models.
 - [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) - Measuring LLMs' Reasoning Performance
+- [Open-evals](https://github.com/open-evals/evals) - A framework extend openai's [Evals](https://github.com/openai/evals) for different language model.
 
 ## Other Useful Resources
 
