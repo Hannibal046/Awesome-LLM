@@ -32,6 +32,8 @@
 
 - (2023-03) **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks.** [paper](https://arxiv.org/abs/2303.00293)
 
+- (2023-03) **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks** [paper](https://arxiv.org/abs/2303.15056)
+
 - (2023-03) **Consistency Analysis of ChatGPT** [paper](https://arxiv.org/abs/2303.06273)
 
 - (2023-03) **Could a Large Language Model be Conscious?** [paper](https://arxiv.org/abs/2303.07103)
@@ -39,6 +41,7 @@
 - (2023-03) **Susceptibility to Influence of Large Language Models** [paper](https://arxiv.org/abs/2303.06074)
 
 - (2023-03) **A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models** [paper](https://arxiv.org/abs/2303.10420)
+- (2023-03) **Sparks of Artificial General Intelligence: Early experiments with GPT-4** [paper](https://arxiv.org/abs/2303.12712)
 
 - (2023-03) **Sparks of Artificial General Intelligence: Early experiments with GPT-4** [paper](https://arxiv.org/abs/2303.12712)
 
