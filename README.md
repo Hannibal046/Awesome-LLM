@@ -307,7 +307,7 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 - [Cohere Summarize Beta](https://txt.cohere.ai/summarize-beta/) - Introducing Cohere Summarize Beta: A New Endpoint for Text Summarization
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - ChatGPT Wrapper is an open-source unofficial Python API and CLI that lets you interact with ChatGPT.
 - [Open-evals](https://github.com/open-evals/evals) - A framework extend openai's [Evals](https://github.com/openai/evals) for different language model.
-
+- [Cursor](https://www.cursor.so) - Write, edit, and chat about your code with a powerful AI.
 
 ## Contributing
 
