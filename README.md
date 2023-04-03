@@ -228,6 +228,10 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 
 ## Tools for deploying LLM
 
+💙 [Haystack](https://haystack.deepset.ai/)
+
+> Haystack is an open-source NLP framework that allows you to use LLMs and transformer-based models from Hugging Face, OpenAI and Cohere to interact with your own data. It supports 🔍 Semantic Search, 🤖 Agents, ❓ Question Answering, 📝 Summarization and a range of other applications.
+
 🦜️🔗 [LangChain](https://github.com/hwchase17/langchain)
 
 > Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge. This library is aimed at assisting in the development of those types of applications. Common examples of these types of applications include ❓ Question Answering over specific documents, 💬 Chatbots and 🤖 Agents.
