@@ -44,6 +44,7 @@
 - (2023-03) **Sparks of Artificial General Intelligence: Early experiments with GPT-4** [paper](https://arxiv.org/abs/2303.12712)
 
 - (2023-03) **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks** [paper](https://arxiv.org/abs/2303.15056)
+- (2023-04) **Is ChatGPT a Highly Fluent Grammatical Error Correction System? A Comprehensive Evaluation** [paper](https://arxiv.org/abs/2304.01746)
 
 ## Useful Resources
 
