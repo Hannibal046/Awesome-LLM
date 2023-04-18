@@ -232,6 +232,10 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 
 > Haystack is an open-source NLP framework that allows you to use LLMs and transformer-based models from Hugging Face, OpenAI and Cohere to interact with your own data. It supports 🔍 Semantic Search, 🤖 Agents, ❓ Question Answering, 📝 Summarization and a range of other applications.
 
+💬 [Sidekick](https://github.com/ai-sidekick/sidekick)
+
+> Sidekick is an open source ETL platform for building LLM apps. It lets you sync data from SaaS tools like Notion, Google Drive, Confluence, etc to a vector database through an easy-to-use dashboard, and gives you an API endpoint you can use to query data across all your data sources. It cuts down the time needed to build customer support bots, workplace search tools, and conversational interfaces using LLMs from days and weeks to hours.
+
 🦜️🔗 [LangChain](https://github.com/hwchase17/langchain)
 
 > Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge. This library is aimed at assisting in the development of those types of applications. Common examples of these types of applications include ❓ Question Answering over specific documents, 💬 Chatbots and 🤖 Agents.
