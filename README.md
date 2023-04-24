@@ -187,11 +187,14 @@ The following list makes sure that all LLMs are compared **apples to apples**.
   - [GPTQ-for-LLaMA](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of [LLaMA](https://arxiv.org/abs/2302.13971) using [GPTQ](https://arxiv.org/abs/2210.17323).
   - [GPT4All](https://github.com/nomic-ai/gpt4all) - Demo, data, and code to train open-source assistant-style large language model based on GPT-J and LLaMa.
   - [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) - A Dialogue Model for Academic Research
+  - [BELLE](https://github.com/LianjiaTech/BELLE) - Be Everyone's Large Language model Engine
   - [StackLLaMA](https://huggingface.co/blog/stackllama) - A hands-on guide to train LLaMA with RLHF.
   - [RedPajama](https://github.com/togethercomputer/RedPajama-Data) -  An Open Source Recipe to Reproduce LLaMA training dataset.
+  - [Chimera](https://github.com/FreedomIntelligence/LLMZoo) - Latin Phoenix.
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz) - a family of models capable of following human instructions in dozens of languages zero-shot.
-
+  - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
+  
 - [T5](https://arxiv.org/abs/1910.10683) - Text-to-Text Transfer Transformer 
   - [T0](https://arxiv.org/abs/2110.08207) - Multitask Prompted Training Enables Zero-Shot Task Generalization
 
@@ -329,6 +332,9 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 - [MIT] Introduction to Data-Centric AI [Homepage](https://dcai.csail.mit.edu)
 
 ## Opinions about LLM
+
+- [我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ) [2023-04-23] [陆奇]
+
 - [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) \[2023-03-08][Noam Chomsky]
 - [Is ChatGPT 175 Billion Parameters? Technical Analysis](https://orenleung.super.site/is-chatgpt-175-billion-parameters-technical-analysis) \[2023-03-04][Owen]
 - [Towards ChatGPT and Beyond](https://zhuanlan.zhihu.com/p/607637180) \[2023-02-20][知乎][欧泽彬]
@@ -353,6 +359,8 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 - [LLM Reading List](https://github.com/crazyofapple/Reading_groups/) - A paper & resource list of large language models.
 - [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) - Collection of papers and resources on Reasoning using Language Models.
 - [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) - Measuring LLMs' Reasoning Performance
+- [Awesome GPT](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
+- [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
 
 ## Other Useful Resources
 
@@ -364,6 +372,7 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - ChatGPT Wrapper is an open-source unofficial Python API and CLI that lets you interact with ChatGPT.
 - [Open-evals](https://github.com/open-evals/evals) - A framework extend openai's [Evals](https://github.com/openai/evals) for different language model.
 - [Cursor](https://www.cursor.so) - Write, edit, and chat about your code with a powerful AI.
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - an experimental open-source application showcasing the capabilities of the GPT-4 language model. 
 
 ## Contributing
 
