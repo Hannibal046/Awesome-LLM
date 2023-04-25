@@ -26,6 +26,10 @@
 
   > Flan-T5/PaLM
 
+### 2023 
+
+- (2023-04) **WizardLM: Empowering Large Language Models to Follow Complex Instructions** [paper](https://arxiv.org/abs/2304.12244)
+
 ## Useful Resources
 
 - [Instruction-Tuning-Papers](https://github.com/SinclairCoder/Instruction-Tuning-Papers) - A trend starts from `Natrural-Instruction` (ACL 2022), `FLAN` (ICLR 2022) and `T0` (ICLR 2022).
