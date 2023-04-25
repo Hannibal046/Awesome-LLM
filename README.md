@@ -376,7 +376,8 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 - [Open-evals](https://github.com/open-evals/evals) - A framework extend openai's [Evals](https://github.com/openai/evals) for different language model.
 - [Cursor](https://www.cursor.so) - Write, edit, and chat about your code with a powerful AI.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - an experimental open-source application showcasing the capabilities of the GPT-4 language model. 
-
+- [OpenAGI](https://github.com/agiresearch/OpenAGI) - When LLM Meets Domain Experts.
+- [HuggingGPT](https://github.com/microsoft/JARVIS) - Solving AI Tasks with ChatGPT and its Friends in HuggingFace.
 ## Contributing
 
 This is an active repository and your contributions are always welcome!
