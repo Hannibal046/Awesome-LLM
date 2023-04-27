@@ -356,6 +356,7 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 
 ## Other Awesome Lists
 
+- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated (still actively updated) list of practical guide resources of LLMs
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - A Chinese collection of prompt examples to be used with the ChatGPT model.
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
