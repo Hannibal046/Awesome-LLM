@@ -251,6 +251,8 @@ The above tables coule be better summarized by this wonderful visualization from
 
 > [Megatron-LM GPT2 tutorial](https://www.deepspeed.ai/tutorials/megatron/)
 
+> [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
+
 > DeepSpeed is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for DL Training and Inference. Visit us at [deepspeed.ai](https://www.deepspeed.ai) or our [Github repo](https://github.com/microsoft/DeepSpeed).
 
 <div align=center>
