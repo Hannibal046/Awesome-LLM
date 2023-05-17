@@ -239,6 +239,8 @@ The above tables coule be better summarized by this wonderful visualization from
 - [MOSS](https://github.com/OpenLMLab/MOSS) - MOSS是一个支持中英双语和多种插件的开源对话语言模型.
 - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - a project meant to give everyone access to a great chat based large language model.
   - [HuggingChat](https://huggingface.co/chat/) - Powered by Open Assistant's latest model – the best open source chat model right now and @huggingface Inference API.
+- [StarCoder](https://huggingface.co/blog/starcoder) - Hugging Face LLM for Code
+- [MPT-7B](https://www.mosaicml.com/blog/mpt-7b) - Open LLM for commercial use by MosaicML
 
 ## LLM Training Frameworks
 
