@@ -45,6 +45,7 @@
 
 - (2023-03) **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks** [paper](https://arxiv.org/abs/2303.15056)
 
+- (2023-04) **Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study** [paper](https://arxiv.org/abs/2304.04339)
 - (2023-04) **Emergent and Predictable Memorization in Large Language Models** [paper](https://arxiv.org/abs/2304.11158)
 
 - (2023-04) **Why Does ChatGPT Fall Short in Answering Questions Faithfully?** [paper](https://arxiv.org/abs/2304.10513)
