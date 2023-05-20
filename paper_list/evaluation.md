@@ -51,6 +51,8 @@
 - (2023-04) **Why Does ChatGPT Fall Short in Answering Questions Faithfully?** [paper](https://arxiv.org/abs/2304.10513)
 
 - (2023-04) **Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness** [paper](https://arxiv.org/abs/2304.11633)
+- 
+- (2023-04) **Are Emergent Abilities of Large Language Models a Mirage?** [paper](https://arxiv.org/abs/2304.15004)
 
 ## Useful Resources
 
