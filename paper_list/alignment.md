@@ -3,6 +3,8 @@
 ## Papers
 
 ### 2023
+- (2023-05) **LIMA: Less Is More for Alignment** [paper](https://arxiv.org/abs/2305.11206)
+
 - (2023-05) **Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision** [paper](https://arxiv.org/abs/2305.03047)
 
 - (2023-05) **Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback** [paper](https://arxiv.org/abs/2305.10142)
