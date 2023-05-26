@@ -244,6 +244,7 @@ The above tables coule be better summarized by this wonderful visualization from
   - [HuggingChat](https://huggingface.co/chat/) - Powered by Open Assistant's latest model – the best open source chat model right now and @huggingface Inference API.
 - [StarCoder](https://huggingface.co/blog/starcoder) - Hugging Face LLM for Code
 - [MPT-7B](https://www.mosaicml.com/blog/mpt-7b) - Open LLM for commercial use by MosaicML
+- [Openllm.com](https://openllm.com) - Open LLM dot com mocks how popular LLMs are being aligned
 
 ## LLM Training Frameworks
 
