@@ -319,6 +319,10 @@ The above tables coule be better summarized by this wonderful visualization from
 
 > Use ChatGPT On Wechat via wechaty
 
+🧪 [promptfoo](https://github.com/typpo/promptfoo)
+
+> Promptfoo is an open-source framework for testing & evaluating prompt quality.  It implements _test-driven prompt engineering_ by enabling you to create test cases for your LLM-based application, automatically check LLM output quality and catch regressions, speed up evaluations, and reduce cost.  Using promptfoo, you can tune your LLM prompts systematically across many test cases.
+
 ## Tutorials about LLM
 - [Andrej Karpathy] State of GPT [video](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 - [Hyung Won Chung] Instruction finetuning and RLHF lecture [Youtube](https://www.youtube.com/watch?v=zjrM-MW-0y0)
