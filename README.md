@@ -124,13 +124,15 @@ If you're interested in the field of LLM, you may find the above list of milesto
 <img src="resources/creepy_llm.jpeg" width="500">
 </div>
 
-
 There are three important steps for a ChatGPT-like LLM: 
 1. **Pre-training** 
 2. **Instruction Tuning**
 3. **Alignment**
 
 The following list makes sure that all LLMs are compared **apples to apples**.
+  > You may also find these leaderboards helpful:
+  - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+  - [Chatbot Arena Leaderboard](https://lmsys.org/blog/)
 
 ### Pre-trained LLM
 
