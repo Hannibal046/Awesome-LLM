@@ -175,6 +175,7 @@ The following list makes sure that all LLMs are compared **apples to apples**.
 |Flan-T5| 11B | Encoder-Decoder |[ckpt](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)|2022-10|[Paper](https://arxiv.org/pdf/2210.11416.pdf)| [Apache 2.0](https://github.com/google-research/t5x/blob/776279bdacd8c5a2d3e8ce0f2e7064bd98e98b47/LICENSE) |
 |T0|11B|Encoder-Decoder|[ckpt](https://huggingface.co/bigscience/T0)|2021-10|[Paper](https://arxiv.org/pdf/2110.08207.pdf)| [Apache 2.0](https://huggingface.co/bigscience/T0) |
 |Alpaca| 7B|Decoder|[demo](https://crfm.stanford.edu/alpaca/)|2023-03|[Github](https://github.com/tatsu-lab/stanford_alpaca)| [CC BY NC 4.0](https://github.com/tatsu-lab/stanford_alpaca/blob/main/WEIGHT_DIFF_LICENSE) |
+|Orca| 13B |Decoder|[ckpt]https://aka.ms/orca-1m|2023-06|[Paper](https://arxiv.org/pdf/2306.02707)|[Non-commercial bespoke license](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md) |
 
 
 ### Aligned LLM
@@ -211,6 +212,7 @@ The above tables coule be better summarized by this wonderful visualization from
   - [RedPajama](https://github.com/togethercomputer/RedPajama-Data) -  An Open Source Recipe to Reproduce LLaMA training dataset.
   - [Chimera](https://github.com/FreedomIntelligence/LLMZoo) - Latin Phoenix.
   - [CaMA](https://github.com/zjunlp/CaMA) - a Chinese-English Bilingual LLaMA Model.
+  - [Orca](https://aka.ms/orca-lm) - Microsoft's finetuned LLaMA model that reportedly matches GPT3.5, finetuned against 5M of data, ChatGPT, and GPT4
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz) - a family of models capable of following human instructions in dozens of languages zero-shot.
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
