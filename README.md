@@ -20,6 +20,8 @@
   - [Other Useful Resources](#other-useful-resources)
   - [Contributing](#contributing)
 
+>  **Also check out the project that I am currently working on: [nanoRWKV]() - a minimal implementation of RWKV language model following nanoGPT**
+
 ## Milestone Papers
 
 |  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
