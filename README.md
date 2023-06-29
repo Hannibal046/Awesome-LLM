@@ -253,7 +253,9 @@ The above tables coule be better summarized by this wonderful visualization from
 - [StarCoder](https://huggingface.co/blog/starcoder) - Hugging Face LLM for Code
 - [MPT-7B](https://www.mosaicml.com/blog/mpt-7b) - Open LLM for commercial use by MosaicML
 - [Falcon](https://falconllm.tii.ae) - Falcon LLM is a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens. TII has now released Falcon LLM – a 40B model.
+- [XGen](https://github.com/salesforce/xgen) - Salesforce open-source LLMs with 8k sequence length.
 
+  
 ## LLM Training Frameworks
 
 <div align=center>
