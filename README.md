@@ -22,14 +22,10 @@
 
 - [Awesome-LLM ](#awesome-llm-)
   - [Updates](#updates)
-    - [ToDos](#todos)
   - [Table of Content](#table-of-content)
   - [Milestone Papers](#milestone-papers)
   - [Other Papers](#other-papers)
   - [LLM Leaderboard](#llm-leaderboard)
-    - [Base LLM](#base-llm)
-    - [Instruction finetuned LLM](#instruction-finetuned-llm)
-    - [RLHF LLM](#rlhf-llm)
   - [Open LLM](#open-llm)
   - [LLM Training Frameworks](#llm-training-frameworks)
   - [Tools for deploying LLM](#tools-for-deploying-llm)
@@ -152,9 +148,9 @@ There are three important steps for a ChatGPT-like LLM:
 
 The following list makes sure that all LLMs are compared **apples to apples**.
   > You may also find these leaderboards helpful:
-  - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released.
-  - [Chatbot Arena Leaderboard](https://lmsys.org/blog/) - a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
-  - [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models
+  > - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released.
+  > - [Chatbot Arena Leaderboard](https://lmsys.org/blog/) - a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
+  > - [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models
 
 ### Base LLM
 
