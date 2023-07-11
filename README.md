@@ -298,6 +298,7 @@ The above tables coule be better summarized by this wonderful visualization from
 -  [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 
 - [promptfoo](https://github.com/typpo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
+- [Modal](https://modal.com/) - Model inference, batch jobs, task queues, web apps and more. All without your own infrastructure. And samples at [modal-examples](https://github.com/modal-labs/modal-examples) and [QuiLLMan: Voice Chat with LLMs](https://github.com/modal-labs/quillman) 
 
 ## Tutorials about LLM
 - [Andrej Karpathy] State of GPT [video](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
