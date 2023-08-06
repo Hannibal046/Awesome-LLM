@@ -299,6 +299,7 @@ The above tables coule be better summarized by this wonderful visualization from
 -  [Sidekick](https://github.com/ai-sidekick/sidekick) - Data integration platform for LLMs. 
 - [LangChain](https://github.com/hwchase17/langchain) -  Building applications with LLMs through composability
 - [LiteChain](https://github.com/rogeriochaves/litechain) - Lightweight alternative to LangChain for composing LLMs 
+- [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 -  [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [promptfoo](https://github.com/typpo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
 - [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-powered apps.
