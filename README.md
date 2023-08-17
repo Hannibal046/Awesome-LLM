@@ -304,6 +304,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [promptfoo](https://github.com/typpo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
 - [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-powered apps.
 - [Serge](https://github.com/serge-chat/serge) - a chat interface crafted with llama.cpp for running Alpaca models. No API keys, entirely self-hosted!
+- [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
 
 ## Tutorials about LLM
