@@ -306,7 +306,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Serge](https://github.com/serge-chat/serge) - a chat interface crafted with llama.cpp for running Alpaca models. No API keys, entirely self-hosted!
 - [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
-- [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming.
+
 
 ## Tutorials about LLM
 - [Andrej Karpathy] State of GPT [video](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
