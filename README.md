@@ -137,7 +137,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
   > Finetune a language model on a collection of tasks described via instructions
 
-- [Retrieval-Augmented Generation](paper_list/instruction-tuning.md)
+- [Retrieval-Augmented Generation](paper_list/Retrieval-Augmented Generation.md)
 
   > Retrieval-Augmented Generation (RAG) combines retrieval from a corpus with generative text models to enhance response accuracy using external knowledge.
 
