@@ -58,5 +58,7 @@
  
 - (2023-04) **Are Emergent Abilities of Large Language Models a Mirage?** [paper](https://arxiv.org/abs/2304.15004)
 
+- (2023-10) **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators** [paper](https://arxiv.org/abs/2310.07289) | [code](https://github.com/ChanLiang/CONNER)
+
 ## Useful Resources
 
