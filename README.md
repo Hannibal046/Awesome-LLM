@@ -367,6 +367,9 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Hung-yi Lee] ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程 [Video](https://www.youtube.com/watch?v=e0aKI2GGZNg)
 - [Keyvan Kambakhsh] Pure Rust implementation of a minimal Generative Pretrained Transformer [code](https://github.com/keyvank/femtoGPT)
 - [过拟合] llm大模型训练知乎专栏 [Link](https://www.zhihu.com/column/c_1252604770952642560)
+- [StatQuest] Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks  [Link](https://www.youtube.com/watch?v=L8HKweZIOmg)
+- [StatQuest] Transformer Neural Networks, ChatGPT's foundation [Link](https://www.youtube.com/watch?v=zxQyTK8quyY)
+- [StatQuest] Decoder-Only Transformers, ChatGPTs specific Transformer [Link](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
 
 ## Courses about LLM
 
