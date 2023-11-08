@@ -5,17 +5,9 @@
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
-## Updates
-
-- [2023-07-01] Add some open-source models: Aquila, Chatglm2, Ultra-LM
-- [2023-07-01] Add some deploying tools: vLLM, Text Generation Inference
-- [2023-07-01] Add some great post about LLM from Yao Fu, Lilian and Andrej
-
 ### ToDos
 
 - Add LLM data (Pretraining data/Instruction Tuning data/Chat data/RLHF data) :sparkles:**Contributions Wanted**
-
->  Also check out the project that I am currently working on: [nanoRWKV](https://github.com/Hannibal046/nanoRWKV) - The nanoGPT-style implementation of RWKV Language Model (an RNN with GPT-level LLM performance.)
 
 ## Table of Content
 
@@ -436,7 +428,8 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
 - [Awesome-LLM-Systems](https://github.com/AmberLJC/LLMSys-PaperList) - Awesome LLM systems research papers.
 - [awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) - A collection of open source, actively maintained web apps for LLM applications.
-- [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
+- [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs.
+- [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) - The paper list of the review on LLMs in medicine.
 
 ## Other Useful Resources
 
