@@ -289,19 +289,15 @@ The above tables coule be better summarized by this wonderful visualization from
 ## Tools for deploying LLM
 
 - [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
-
 - [SkyPilot](https://github.com/skypilot-org/skypilot) - Run LLMs and batch jobs on any cloud. Get maximum cost savings, highest GPU availability, and managed execution -- all with a simple interface.
-
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-
-- [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at [HuggingFace](https://huggingface.co/) to power LLMs api-inference widgets.
-
+- [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at [HuggingFace](https://huggingface.co/) to power LLMs api-inference widgets, HFOIL Licence.
 - [Haystack](https://haystack.deepset.ai/) - an open-source NLP framework that allows you to use LLMs and transformer-based models from Hugging Face, OpenAI and Cohere to interact with your own data. 
--  [Sidekick](https://github.com/ai-sidekick/sidekick) - Data integration platform for LLMs. 
+- [Sidekick](https://github.com/ai-sidekick/sidekick) - Data integration platform for LLMs. 
 - [LangChain](https://github.com/hwchase17/langchain) -  Building applications with LLMs through composability
 - [LiteChain](https://github.com/rogeriochaves/litechain) - Lightweight alternative to LangChain for composing LLMs 
 - [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
--  [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [promptfoo](https://github.com/typpo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
 - [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-powered apps.
 - [Serge](https://github.com/serge-chat/serge) - a chat interface crafted with llama.cpp for running Alpaca models. No API keys, entirely self-hosted!
@@ -310,7 +306,9 @@ The above tables coule be better summarized by this wonderful visualization from
 - [CometLLM](https://github.com/comet-ml/comet-llm) - A 100% opensource LLMOps platform to log, manage, and visualize your LLM prompts and chains. Track prompt templates, prompt variables, prompt duration, token usage, and other metadata. Score prompt outputs and visualize chat history all within a single UI.
 - [IntelliServer](https://github.com/intelligentnode/IntelliServer) - simplifies the evaluation of LLMs by providing a unified microservice to access and test multiple AI models.
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - Fine-tune, serve, deploy, and monitor any open-source LLMs in production. Used in production at [BentoML](https://bentoml.com/) for LLMs-based applications.
-
+- [DeepSpeed-Mii] -  MII makes low-latency and high-throughput inference, similar to vLLM powered by DeepSpeed.
+- [Text-Embeddings-Inference](https://github.com/huggingface/text-embeddings-inference) - Inference for text-embeddings in Rust, HFOIL Licence.
+- [Infinity](https://github.com/michaelfeil/infinity) - Inference for text-embeddings in Python
 
 ## Prompting libraries & tools
 
@@ -436,6 +434,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Arize-Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models.
 - [Emergent Mind](https://www.emergentmind.com) - The latest AI news, curated & explained by GPT-4.
 - [ShareGPT](https://sharegpt.com) - Share your wildest ChatGPT conversations with one click.
+- [Gradient](https://gradient.ai) - Option to fast fine-tune a QLora Adapter for Llama
 - [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
 - [500+ Best AI Tools](https://vaulted-polonium-23c.notion.site/500-Best-AI-Tools-e954b36bf688404ababf74a13f98d126)
 - [Cohere Summarize Beta](https://txt.cohere.ai/summarize-beta/) - Introducing Cohere Summarize Beta: A New Endpoint for Text Summarization
