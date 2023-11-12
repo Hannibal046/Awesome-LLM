@@ -299,6 +299,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Haystack](https://haystack.deepset.ai/) - an open-source NLP framework that allows you to use LLMs and transformer-based models from Hugging Face, OpenAI and Cohere to interact with your own data. 
 -  [Sidekick](https://github.com/ai-sidekick/sidekick) - Data integration platform for LLMs. 
 - [LangChain](https://github.com/hwchase17/langchain) -  Building applications with LLMs through composability
+- [Swiss Army Llama](https://github.com/Dicklesworthstone/swiss_army_llama) - Comprehensive set of tools for working with local LLMs for various tasks.
 - [LiteChain](https://github.com/rogeriochaves/litechain) - Lightweight alternative to LangChain for composing LLMs 
 - [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 -  [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
