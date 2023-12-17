@@ -272,6 +272,9 @@ The above tables coule be better summarized by this wonderful visualization from
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz) - a family of models capable of following human instructions in dozens of languages zero-shot.
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
+- [Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Let the Code Write Itself.
+- [Deepseek LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - Let there be answers.
+- [Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai.
 - [T5](https://arxiv.org/abs/1910.10683) - Text-to-Text Transfer Transformer 
   - [T0](https://arxiv.org/abs/2110.08207) - Multitask Prompted Training Enables Zero-Shot Task Generalization
 - [OPT](https://arxiv.org/abs/2205.01068) - Open Pre-trained Transformer Language Models.
@@ -303,7 +306,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [MPT-7B](https://www.mosaicml.com/blog/mpt-7b) - Open LLM for commercial use by MosaicML
 - [Falcon](https://falconllm.tii.ae) - Falcon LLM is a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens. TII has now released Falcon LLM – a 40B model.
 - [XGen](https://github.com/salesforce/xgen) - Salesforce open-source LLMs with 8k sequence length.
-- [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型.
+- [Baichuan](https://github.com/baichuan-inc) - A series of large language models developed by Baichuan Intelligent Technology.
 - [Aquila](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila) - 悟道·天鹰语言大模型是首个具备中英双语知识、支持商用许可协议、国内数据合规需求的开源语言大模型。
 - [phi-1](https://arxiv.org/abs/2306.11644) - a new large language model for code, with significantly smaller size than competing models.
 - [phi-1.5](https://arxiv.org/abs/2309.05463) - a 1.3 billion parameter model trained on a dataset of 30 billion tokens, which achieves common sense reasoning benchmark results comparable to models ten times its size that were trained on datasets more than ten times larger.
