@@ -351,6 +351,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Text-Embeddings-Inference](https://github.com/huggingface/text-embeddings-inference) - Inference for text-embeddings in Rust, HFOIL Licence.
 - [Infinity](https://github.com/michaelfeil/infinity) - Inference for text-embeddings in Python
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+- [Inferless](https://www.inferless.com/) - True Serverless GPU Inference offering to deploy models in cloud with lowest cold-starts & smooth autoscaling. 
 
 ## Prompting libraries & tools
 
