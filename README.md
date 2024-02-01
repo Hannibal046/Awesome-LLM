@@ -83,6 +83,7 @@
 | 2023-05 | RWKV | Bo Peng | [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048) |EMNLP<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F026b3396a63ed5772329708b7580d633bb86bec9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2023-05 | DPO | Stanford | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf) |Neurips<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0d1c76d45afa012ded7ab741194baf142117c495%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2023-07 | LLaMA 2 | Meta | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F104b0bb1da562d53cbda87aec79ef6a2827d191a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+|2023-10| Mistral 7B| Mistral |[Mistral 7B](https://arxiv.org/pdf/2310.06825.pdf%5D%5D%3E)|<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdb633c6b1c286c0386f0078d8a2e6224e03a6227%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2023-12 | Mamba | CMU&Princeton | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) |ICLR<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F432bef8e34014d726c674bc458008ac895297b51%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 
 
@@ -183,6 +184,7 @@ There are three important steps for a ChatGPT-like LLM:
   > - [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models
   > - [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) -  The Open Ko-LLM Leaderboard objectively evaluates the performance of Korean Large Language Model (LLM).
   > - [Yet Another LLM Leaderboard](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard) - Leaderboard made with LLM AutoEval using Nous benchmark suite.
+  > - [OpenCompass 2.0 LLM Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-v2) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 
 
 
@@ -275,8 +277,10 @@ The above tables coule be better summarized by this wonderful visualization from
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz) - a family of models capable of following human instructions in dozens of languages zero-shot.
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
-- [Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Let the Code Write Itself.
-- [Deepseek LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - Let there be answers.
+- [Deepseek](https://github.com/deepseek-ai/)
+  - [Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Let the Code Write Itself.
+  - [LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - Let there be answers. 
+  - 知名私募巨头幻方量化旗下的人工智能公司深度求索（DeepSeek）自主研发的大语言模型开发的智能助手。包括 [7B-base](https://modelscope.cn/models/deepseek-ai/deepseek-llm-7b-base/summary), [67B-base](https://modelscope.cn/models/deepseek-ai/deepseek-llm-67b-base/summary), 
 - [Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai.
 - [T5](https://arxiv.org/abs/1910.10683) - Text-to-Text Transfer Transformer 
   - [T0](https://arxiv.org/abs/2110.08207) - Multitask Prompted Training Enables Zero-Shot Task Generalization
@@ -285,8 +289,10 @@ The above tables coule be better summarized by this wonderful visualization from
 - [GLM](https://github.com/THUDM/GLM)- GLM is a General Language Model pretrained with an autoregressive blank-filling objective and can be finetuned on various natural language understanding and generation tasks.
   - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数.
   - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - An Open Bilingual Chat LLM | 开源双语对话语言模型
+  - [ChatGLM3-6B](https://github.com/THUDM/ChatGLM3) - An Open Bilingual Chat LLMs | 开源双语对话语言模型 ; Including [ChatGLM3-6B-32k](https://huggingface.co/THUDM/chatglm3-6b-32k), [ChatGLM3-6B-128k](https://huggingface.co/THUDM/chatglm3-6b-128k).
 - [RWKV](https://github.com/BlinkDL/RWKV-LM) - Parallelizable RNN with Transformer-level LLM Performance.
   - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by my RWKV (100% RNN) language model.
+  - [Trending Demo](https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-2) - RWKV-5 trained on 100+ world languages (70% English, 15% multilang, 15% code).
 - [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models) - Stability AI Language Models.
 - [YaLM](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6) - a GPT-like neural network for generating and processing text. It can be used freely by developers and researchers from all over the world.
 - [GPT-Neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model & data parallel [GPT3](https://arxiv.org/abs/2005.14165)-like models using the [mesh-tensorflow](https://github.com/tensorflow/mesh) library.
@@ -314,6 +320,12 @@ The above tables coule be better summarized by this wonderful visualization from
 - [phi-1](https://arxiv.org/abs/2306.11644) - a new large language model for code, with significantly smaller size than competing models.
 - [phi-1.5](https://arxiv.org/abs/2309.05463) - a 1.3 billion parameter model trained on a dataset of 30 billion tokens, which achieves common sense reasoning benchmark results comparable to models ten times its size that were trained on datasets more than ten times larger.
 - [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) - a 2.7 billion-parameter language model that demonstrates outstanding reasoning and language understanding capabilities, showcasing state-of-the-art performance among base language models with less than 13 billion parameters.
+- [InternLM / 书生·浦语](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support. [Homepage](https://internlm.intern-ai.org.cn/) | [ModelScope](https://modelscope.cn/models/Shanghai_AI_Laboratory/internlm-7b/summary)
+- [BlueLM-7B](https://github.com/vivo-ai-lab/BlueLM) - BlueLM(蓝心大模型): Open large language models developed by vivo AI Lab. [Homepage](https://developers.vivo.com/product/ai/bluelm) | [ModelScope](https://modelscope.cn/models/vivo-ai/BlueLM-7B-Base/summary)
+[MoE-16B-base](https://modelscope.cn/models/deepseek-ai/deepseek-moe-16b-base), 等. | [Chat with DeepSeek (Beta)](https://chat.deepseek.com/sign_in)
+- [Qwen series](https://huggingface.co/Qwen) - The large language model series proposed by Alibaba Cloud. ｜ 阿里云研发的通义千问大模型系列. 包括 [7B](https://huggingface.co/Qwen/Qwen-7B), [72B](https://huggingface.co/Qwen/Qwen-72B), 及各种量化和Chat版本. [Chat Demo](https://huggingface.co/spaces/Qwen/Qwen-72B-Chat-Demo)
+- [XVERSE series](https://github.com/xverse-ai) - Multilingual large language model developed by XVERSE Technology Inc | 由深圳元象科技自主研发的支持多语言的大语言模型. 包括[7B](https://github.com/xverse-ai/XVERSE-7B), [13B](https://github.com/xverse-ai/XVERSE-13B), [65B](https://github.com/xverse-ai/XVERSE-65B)等.
+- [Skywork series](https://github.com/SkyworkAI/Skywork) - A series of large models developed by the Kunlun Group · Skywork team | 昆仑万维集团·天工团队开发的一系列大型模型.
 
 ## LLM Training Frameworks
 
@@ -353,6 +365,10 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Text-Embeddings-Inference](https://github.com/huggingface/text-embeddings-inference) - Inference for text-embeddings in Rust, HFOIL Licence.
 - [Infinity](https://github.com/michaelfeil/infinity) - Inference for text-embeddings in Python
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+- [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - NVIDIA Framework for LLM Inference(Transitioned to TensorRT-LLM)
+- [Flash-Attention](https://github.com/Dao-AILab/flash-attention) - A method designed to enhance the efficiency of Transformer models
+- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Formerly langchain-ChatGLM, local knowledge based LLM (like ChatGLM) QA app with langchain.
+- [Search with Lepton](https://github.com/leptonai/search_with_lepton) - Build your own conversational search engine using less than 500 lines of code by [LeptonAI](https://github.com/leptonai).
 
 ## Prompting libraries & tools
 
@@ -376,6 +392,8 @@ The above tables coule be better summarized by this wonderful visualization from
 - [ModelFusion](https://github.com/lgrammel/modelfusion) - A TypeScript library for building apps with LLMs and other ML models (speech-to-text, text-to-speech, image generation).
 - [Flappy](https://github.com/pleisto/flappy) — Production-Ready LLM Agent SDK for Every Developer.
 - [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down
+- [QAnything](https://github.com/netease-youdao/QAnything) - A local knowledge base question-answering system designed to support a wide range of file formats and databases.
+  - Core modules: [BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Bilingual and Crosslingual Embedding for RAG
 
 ## Tutorials
 - [Andrej Karpathy] State of GPT [video](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
@@ -422,6 +440,18 @@ The above tables coule be better summarized by this wonderful visualization from
 - [李沐] GPT，GPT-2，GPT-3 论文精读 [Bilibili](https://www.bilibili.com/video/BV1AF411b7xQ/?spm_id_from=333.788&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=t70Bl3w7bxY&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=18)
 - [Aston Zhang] Chain of Thought论文 [Bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.788&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=H4J59iG3t5o&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=29)
 - [MIT] Introduction to Data-Centric AI [Homepage](https://dcai.csail.mit.edu)
+- [DeepLearning.AI] Building Applications with Vector Databases [Homepage](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
+- [DeepLearning.AI] Building Systems with the ChatGPT API [Homepage](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+- [DeepLearning.AI] LangChain for LLM Application Development [Homepage](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [DeepLearning.AI] LangChain: Chat with Your Data [Homepage](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+- [DeepLearning.AI] Finetuning Large Language Models [Homepage](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+- [DeepLearning.AI] Build LLM Apps with LangChain.js [Homepage](https://www.deeplearning.ai/short-courses/build-llm-apps-with-langchain-js/)
+- [DeepLearning.AI] Large Language Models with Semantic Search [Homepage](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
+- [DeepLearning.AI] LLMOps [Homepage](https://www.deeplearning.ai/short-courses/llmops/)
+- [DeepLearning.AI] Building and Evaluating Advanced RAG Applications [Homepage](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+- [DeepLearning.AI] Quality and Safety for LLM Applications [Homepage](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/)
+- [DeepLearning.AI] Vector Databases: from Embeddings to Applications [Homepage](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+- [DeepLearning.AI] Functions, Tools and Agents with LangChain [Homepage](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
 
 ## Books
 - [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
@@ -469,6 +499,8 @@ The above tables coule be better summarized by this wonderful visualization from
 - [HuggingGPT](https://github.com/microsoft/JARVIS) - Solving AI Tasks with ChatGPT and its Friends in HuggingFace.
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
+- [MTEB](https://huggingface.co/spaces/mteb/leaderboard) - Massive Text Embedding Benchmark Leaderboard
+- [xFormer](https://github.com/facebookresearch/xformers) - A PyTorch based library which hosts flexible Transformers parts
 ## Contributing
 
 This is an active repository and your contributions are always welcome!
