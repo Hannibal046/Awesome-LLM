@@ -10,12 +10,13 @@
 - Add LLM data (Pretraining data/Instruction Tuning data/Chat data/RLHF data) :sparkles:**Contributions Wanted** -->
 
 ## Trending LLM Projects
+- [OLMo](https://github.com/allenai/OLMo) - Open Language Model.
+- [miqu-1-70b](https://huggingface.co/miqudev/miqu-1-70b) - A leaked 70B model from Mistral AI.
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/) - a high-quality sparse mixture of experts model (SMoE) with open weights.
 - [promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering.
 - [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
 - [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A private ChatGPT to chat with anything!
-- [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) - a 2.7 billion-parameter language model that demonstrates outstanding reasoning and language understanding capabilities, showcasing state-of-the-art performance among base language models with less than 13 billion parameters.
 
 ## Table of Content
 
