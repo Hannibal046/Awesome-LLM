@@ -10,13 +10,9 @@
 - Add LLM data (Pretraining data/Instruction Tuning data/Chat data/RLHF data) :sparkles:**Contributions Wanted** -->
 
 ## Trending LLM Projects
-- [OLMo](https://github.com/allenai/OLMo) - Open Language Model.
-- [miqu-1-70b](https://huggingface.co/miqudev/miqu-1-70b) - A leaked 70B model from Mistral AI.
-- [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/) - a high-quality sparse mixture of experts model (SMoE) with open weights.
-- [promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering.
-- [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
-- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A private ChatGPT to chat with anything!
+- [Sora](https://openai.com/sora) - Sora is an AI model that can create realistic and imaginative scenes from text instructions.
+- [Gemma](https://blog.google/technology/developers/gemma-open-models/) - Gemma is built for responsible AI development from the same research and technology used to create Gemini models.
+- [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 
 ## Table of Content
 
@@ -25,6 +21,7 @@
   - [Other Papers](#other-papers)
   - [Open LLM](#open-llm)
   - [LLM Training Frameworks](#llm-training-frameworks)
+  - [LLM Evaluation Frameworks](#llm-evaluation-frameworks)
   - [Tools for deploying LLM](#deploying-tools)
   - [Tutorials about LLM](#tutorials)
   - [Courses about LLM](#courses)
@@ -93,6 +90,7 @@
 ## Other Papers
 If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link:
 
+- [Awesome-LLM-hallucination](https://github.com/LuckyyySTA/Awesome-LLM-hallucination) - LLM hallucination paper list.
 - [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) - List of papers on hallucination detection in LLMs.
 - [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated (still actively updated) list of practical guide resources of LLMs
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
@@ -251,7 +249,7 @@ The above tables coule be better summarized by this wonderful visualization from
 ---
 
 ## Open LLM -->
-
+- [Gemma](https://blog.google/technology/developers/gemma-open-models/) - Gemma is built for responsible AI development from the same research and technology used to create Gemini models.
 - [Mistral](https://mistral.ai/) - Mistral-7B-v0.1 is a small, yet powerful model adaptable to many use-cases including code and 8k sequence length. Apache 2.0 licence.
 - [Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/) - a high-quality sparse mixture of experts model (SMoE) with open weights.
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)  & [LLaMA-2](https://ai.meta.com/llama/) - A foundational large language model. [LLaMA.cpp](https://github.com/ggerganov/llama.cpp) [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama)
@@ -342,6 +340,12 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Alpa](https://alpa.ai/index.html) - Alpa is a system for training and serving large-scale neural networks.
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 
+## LLM Evaluation Frameworks:
+- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
+- [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
+- [OLMO-eval](https://github.com/allenai/OLMo-Eval) - a repository for evaluating open language models.
+- [instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
+
 ## Deploying Tools
 
 - [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
@@ -398,6 +402,9 @@ The above tables coule be better summarized by this wonderful visualization from
   - Core modules: [BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Bilingual and Crosslingual Embedding for RAG
 
 ## Tutorials
+- [Maarten Grootendorst] A Visual Guide to Mamba and State Space Models [blog](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false)
+- [Jack Cook] (Mamba: The Easy Way)[https://jackcook.com/2024/02/23/mamba.html]
+- [Andrej Karpathy] minbpe [video](https://www.youtube.com/watch?v=zduSFxRajkE&t=1157s)
 - [Andrej Karpathy] State of GPT [video](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 - [Hyung Won Chung] Instruction finetuning and RLHF lecture [Youtube](https://www.youtube.com/watch?v=zjrM-MW-0y0)
 - [Jason Wei] Scaling, emergence, and reasoning in large language models [Slides](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
@@ -429,6 +436,7 @@ The above tables coule be better summarized by this wonderful visualization from
 
 ## Courses
 
+- [UWaterloo] CS 886: Recent Advances on Foundation Models [Homepage](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 - [DeepLearning.AI] ChatGPT Prompt Engineering for Developers [Homepage](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Princeton] Understanding Large Language Models [Homepage](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [OpenBMB] 大模型公开课 [主页](https://www.openbmb.org/community/course)
@@ -484,7 +492,6 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Large Language Model Training in 2023](https://research.aimultiple.com/large-language-model-training/) \[2023-02-03][Cem Dilmegani]
 - [What Are Large Language Models Used For? ](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b) \[2023-01-26][NVIDIA]
 - [Large Language Models: A New Moore&#39;s Law ](https://huggingface.co/blog/large-language-models) \[2021-10-26\]\[Huggingface\]
-
 
 
 ## Other Useful Resources
