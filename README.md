@@ -454,6 +454,8 @@ The above tables coule be better summarized by this wonderful visualization from
 - [DeepLearning.AI] Quality and Safety for LLM Applications [Homepage](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/)
 - [DeepLearning.AI] Vector Databases: from Embeddings to Applications [Homepage](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 - [DeepLearning.AI] Functions, Tools and Agents with LangChain [Homepage](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+- [Arize] LLM Observability: Evaluations [Homepage](https://courses.arize.com/p/llm-evaluations/)
+- [Arize] LLM Observability: Traces and Spans [Homepage](https://courses.arize.com/p/llm-observability-traces-spans/)
 
 ## Books
 - [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng) - it comes with a [GitHub repository](https://github.com/benman1/generative_ai_with_langchain) that showcases a lot of the functionality
