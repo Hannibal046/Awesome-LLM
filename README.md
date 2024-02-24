@@ -403,7 +403,7 @@ The above tables coule be better summarized by this wonderful visualization from
 
 ## Tutorials
 - [Maarten Grootendorst] A Visual Guide to Mamba and State Space Models [blog](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false)
-- [Jack Cook] (Mamba: The Easy Way)[https://jackcook.com/2024/02/23/mamba.html]
+- [Jack Cook] [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 - [Andrej Karpathy] minbpe [video](https://www.youtube.com/watch?v=zduSFxRajkE&t=1157s)
 - [Andrej Karpathy] State of GPT [video](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 - [Hyung Won Chung] Instruction finetuning and RLHF lecture [Youtube](https://www.youtube.com/watch?v=zjrM-MW-0y0)
