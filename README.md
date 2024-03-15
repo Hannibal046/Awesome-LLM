@@ -437,6 +437,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [StatQuest] Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks  [Link](https://www.youtube.com/watch?v=L8HKweZIOmg)
 - [StatQuest] Transformer Neural Networks, ChatGPT's foundation [Link](https://www.youtube.com/watch?v=zxQyTK8quyY)
 - [StatQuest] Decoder-Only Transformers, ChatGPTs specific Transformer [Link](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
+- [康斯坦丁] Understanding Language Processing Through Embedding [Link](https://zhuanlan.zhihu.com/p/643560252)
 
 ## Courses
 
