@@ -274,6 +274,7 @@ The above tables coule be better summarized by this wonderful visualization from
   - [UltraLM](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Models.
   - [Guanaco](https://github.com/artidoro/qlora) - QLoRA tuned LLaMA
   - [ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) - A Chinese medical large language model.
+  - [Gorilla LLM](https://github.com/ShishirPatil/gorilla) - Gorilla: Large Language Model Connected with Massive APIs
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz) - a family of models capable of following human instructions in dozens of languages zero-shot.
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
