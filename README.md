@@ -274,6 +274,7 @@ The above tables coule be better summarized by this wonderful visualization from
   - [UltraLM](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Models.
   - [Guanaco](https://github.com/artidoro/qlora) - QLoRA tuned LLaMA
   - [ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) - A Chinese medical large language model.
+  - [RAFT](https://aka.ms/raft-blog) - RAFT: A new way to teach LLMs to be better at RAG ([paper](https://arxiv.org/abs/2403.10131)).
   - [Gorilla LLM](https://github.com/ShishirPatil/gorilla) - Gorilla: Large Language Model Connected with Massive APIs
   - [LLaVa](https://github.com/haotian-liu/LLaVA) - LLaVA: Large Language and Vision Assistant, an end-to-end trained large multimodal model that connects a vision encoder and LLM for general-purpose visual and language understanding.
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
