@@ -329,6 +329,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Qwen series](https://huggingface.co/Qwen) - The large language model series proposed by Alibaba Cloud. ｜ 阿里云研发的通义千问大模型系列. 包括 [7B](https://huggingface.co/Qwen/Qwen-7B), [72B](https://huggingface.co/Qwen/Qwen-72B), 及各种量化和Chat版本. [Chat Demo](https://huggingface.co/spaces/Qwen/Qwen-72B-Chat-Demo)
 - [XVERSE series](https://github.com/xverse-ai) - Multilingual large language model developed by XVERSE Technology Inc | 由深圳元象科技自主研发的支持多语言的大语言模型. 包括[7B](https://github.com/xverse-ai/XVERSE-7B), [13B](https://github.com/xverse-ai/XVERSE-13B), [65B](https://github.com/xverse-ai/XVERSE-65B)等.
 - [Skywork series](https://github.com/SkyworkAI/Skywork) - A series of large models developed by the Kunlun Group · Skywork team | 昆仑万维集团·天工团队开发的一系列大型模型.
+- [Command-R series](https://huggingface.co/CohereForAI) - Two multilingual large language models intended for retrieval augmented generation (RAG) and conversational use, at [35](https://huggingface.co/CohereForAI/c4ai-command-r-v01) and [104](https://huggingface.co/CohereForAI/c4ai-command-r-plus) billion parameters. 128k context support.
 
 ## LLM Training Frameworks
 
