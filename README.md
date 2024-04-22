@@ -410,6 +410,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down
 - [QAnything](https://github.com/netease-youdao/QAnything) - A local knowledge base question-answering system designed to support a wide range of file formats and databases.
   - Core modules: [BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Bilingual and Crosslingual Embedding for RAG
+- [OneKE](https://openspg.yuque.com/ndx6g9/ps5q6b/vfoi61ks3mqwygvy) — A bilingual Chinese-English knowledge extraction model with knowledge graphs and natural language processing technologies.
 
 ## Tutorials
 - [Maarten Grootendorst] A Visual Guide to Mamba and State Space Models [blog](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false)
