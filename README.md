@@ -85,6 +85,7 @@
 | 2023-07 | LLaMA 2 | Meta | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F104b0bb1da562d53cbda87aec79ef6a2827d191a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 |2023-10| Mistral 7B| Mistral |[Mistral 7B](https://arxiv.org/pdf/2310.06825.pdf%5D%5D%3E)|<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdb633c6b1c286c0386f0078d8a2e6224e03a6227%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2023-12 | Mamba | CMU&Princeton | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F432bef8e34014d726c674bc458008ac895297b51%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-03 | Jamba | AI21 Labs | [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/pdf/2403.19887) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcbaf689fd9ea9bc939510019d90535d6249b3367%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
 
 
 ## Other Papers
@@ -330,6 +331,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [XVERSE series](https://github.com/xverse-ai) - Multilingual large language model developed by XVERSE Technology Inc | 由深圳元象科技自主研发的支持多语言的大语言模型. 包括[7B](https://github.com/xverse-ai/XVERSE-7B), [13B](https://github.com/xverse-ai/XVERSE-13B), [65B](https://github.com/xverse-ai/XVERSE-65B)等.
 - [Skywork series](https://github.com/SkyworkAI/Skywork) - A series of large models developed by the Kunlun Group · Skywork team | 昆仑万维集团·天工团队开发的一系列大型模型.
 - [Command-R series](https://huggingface.co/CohereForAI) - Two multilingual large language models intended for retrieval augmented generation (RAG) and conversational use, at [35](https://huggingface.co/CohereForAI/c4ai-command-r-v01) and [104](https://huggingface.co/CohereForAI/c4ai-command-r-plus) billion parameters. 128k context support.
+- - [Jamba](https://huggingface.co/ai21labs/Jamba-v0.1) - A Hybrid Transformer-Mamba MoE model, with 52B params, first production grade mamba based LLM, 256K context support.
 
 ## LLM Training Frameworks
 
