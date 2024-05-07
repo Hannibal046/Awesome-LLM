@@ -121,6 +121,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [LLMDatahub](https://github.com/Zjh-819/LLMDataHub) - a curated collection of datasets specifically designed for chatbot training, including links, size, language, usage, and a brief description of each dataset
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [LLM4Opt]([https://github.com/mlabonne/llm-course](https://github.com/FeiLiu36/LLM4Opt)) - Applying Large language models (LLMs) for diverse optimization tasks (Opt) is an emerging research area. This is a collection of references and papers of LLM4Opt.
 
 <!-- (:exclamation: **We would greatly appreciate and welcome your contribution to the following list. :exclamation:**)
 
