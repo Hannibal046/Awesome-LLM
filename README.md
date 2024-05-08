@@ -388,6 +388,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [LMDeploy](https://github.com/InternLM/lmdeploy) - A high-throughput and low-latency inference and serving framework for LLMs and VLs
 - [Tune Studio](https://studio.tune.app/) - Playground for devs to finetune & deploy LLMs
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - Locally running websearch using LLM chains
+- [AI Gateway](https://github.com/Portkey-AI/gateway) — Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency.
 
 ## Prompting libraries & tools
 
