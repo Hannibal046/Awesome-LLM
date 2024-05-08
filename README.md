@@ -415,6 +415,7 @@ The above tables coule be better summarized by this wonderful visualization from
   - Core modules: [BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Bilingual and Crosslingual Embedding for RAG
 - [OneKE](https://openspg.yuque.com/ndx6g9/ps5q6b/vfoi61ks3mqwygvy) — A bilingual Chinese-English knowledge extraction model with knowledge graphs and natural language processing technologies.
 - [llm-ui](https://github.com/llm-ui-kit/llm-ui) - A React library for building LLM UIs.
+- [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. We approach prompting as a new programming language rather than low/no-code blocks.
 
 ## Tutorials
 - [Maarten Grootendorst] A Visual Guide to Mamba and State Space Models [blog](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false)
