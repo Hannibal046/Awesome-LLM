@@ -6,11 +6,10 @@
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ## Trending LLM Projects
-- [GPT-4o](https://openai.com/index/hello-gpt-4o/) - OpenAI's new flagship model that can reason across audio, vision, and text in real time.
+- [Omost](https://github.com/lllyasviel/Omost) - a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.
+- [llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3.
 - [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A GPT-4V Level Multimodal LLM on Your Phone.
-- [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time.
-- [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application (Mac, Windows and Linux).
-- [llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA.
+- [fabric](https://github.com/danielmiessler/fabric) - an open-source framework for augmenting humans using AI.
 
 ## Table of Content
 
@@ -210,6 +209,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [OLMO-eval](https://github.com/allenai/OLMo-Eval) - a repository for evaluating open language models.
 - [instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
+- [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
 
 ## LLM Training Frameworks
 
