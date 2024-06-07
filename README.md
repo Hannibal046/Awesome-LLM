@@ -210,6 +210,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [OLMO-eval](https://github.com/allenai/OLMo-Eval) - a repository for evaluating open language models.
 - [instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
+- [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 
 ## LLM Training Frameworks
 
