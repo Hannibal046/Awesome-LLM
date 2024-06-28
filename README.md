@@ -6,10 +6,11 @@
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ## Trending LLM Projects
-- [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
-- [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
-- [QWen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
-- [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - an open-source Mixture-of-Experts (MoE) code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.
+
+- [LibreChat](https://github.com/danny-avila/LibreChat) - All-In-One AI Conversations with LibreChat.
+- [Open-Sora](https://github.com/hpcaitech/Open-Sora) - Democratizing Efficient Video Production for All.
+- [LLM101n](https://github.com/karpathy/LLM101n) - Let's build a Storyteller.
+- [Gemma 2](https://blog.google/technology/developers/google-gemma-2/) - A new open model standard for efficiency and performance from Google.
 
 ## Table of Content
 
@@ -140,6 +141,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
   - [Mixtral-8x7B](https://mistral.ai/news/mixtral-of-experts/)
   - [Mixtral-8x22B](https://mistral.ai/news/mixtral-8x22b/)
 - Google
+  - [Gemma2-9|27B](https://blog.google/technology/developers/google-gemma-2/)
   - [Gemma-2|7B](https://blog.google/technology/developers/gemma-open-models/)
   - [RecurrentGemma-2B](https://github.com/google-deepmind/recurrentgemma)
   - [T5](https://arxiv.org/abs/1910.10683)
@@ -200,7 +202,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
   - [StarCoder2-3|7|15B](https://huggingface.co/collections/bigcode/starcoder2-65de6da6e87db3383572be1a)
 - DataBricks
   - [MPT-7B](https://www.databricks.com/blog/mpt-7b)
-  - [DBRX Base|Instruct](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+  - [DBRX-132B-MoE](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 - Shanghai AI Laboratory
   - [InternLM2-1.8|7|20B](https://huggingface.co/collections/internlm/internlm2-65b0ce04970888799707893c)
   - [InternLM-Math-7B|20B](https://huggingface.co/collections/internlm/internlm2-math-65b0ce88bf7d3327d0a5ad9f)
@@ -245,6 +247,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [Langfuse](https://github.com/langfuse/langfuse) -  Open Source LLM Engineering Platform 🪢 Tracing, Evaluations, Prompt Management, Evaluations and Playground. 
 - [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
+- [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [MindSQL](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.
 - [SkyPilot](https://github.com/skypilot-org/skypilot) - Run LLMs and batch jobs on any cloud. Get maximum cost savings, highest GPU availability, and managed execution -- all with a simple interface.
 - [Haystack](https://haystack.deepset.ai/) - an open-source NLP framework that allows you to use LLMs and transformer-based models from Hugging Face, OpenAI and Cohere to interact with your own data. 
@@ -282,7 +285,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 
 ## LLM Applications
-
+- [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [YiVal](https://github.com/YiVal/YiVal) — Evaluate and Evolve: YiVal is an open-source GenAI-Ops tool for tuning and evaluating prompts, configurations, and model parameters using customizable datasets, evaluation methods, and improvement strategies.
 - [Guidance](https://github.com/microsoft/guidance) — A handy looking Python library from Microsoft that uses Handlebars templating to interleave generation, prompting, and logical control.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
