@@ -127,6 +127,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
  using Nous benchmark suite. 
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released.
 - [OpenCompass 2.0 LLM Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-v2) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+- [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) - evaluates LLM's ability to call external functions / tools
 
 ## Open LLM
 - Meta
@@ -199,6 +200,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
   - [StarCoder2-3|7|15B](https://huggingface.co/collections/bigcode/starcoder2-65de6da6e87db3383572be1a)
 - DataBricks
   - [MPT-7B](https://www.databricks.com/blog/mpt-7b)
+  - [DBRX Base|Instruct](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 - Shanghai AI Laboratory
   - [InternLM2-1.8|7|20B](https://huggingface.co/collections/internlm/internlm2-65b0ce04970888799707893c)
   - [InternLM-Math-7B|20B](https://huggingface.co/collections/internlm/internlm2-math-65b0ce88bf7d3327d0a5ad9f)
