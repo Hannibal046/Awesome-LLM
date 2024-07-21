@@ -287,7 +287,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 
 ## LLM Applications
-- [LightRAG](https://github.com/SylphAI-Inc/LightRAG) - LightRAG: The PyTorch library for LLM applications.
+- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The PyTorch library for LLM applications.
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [YiVal](https://github.com/YiVal/YiVal) — Evaluate and Evolve: YiVal is an open-source GenAI-Ops tool for tuning and evaluating prompts, configurations, and model parameters using customizable datasets, evaluation methods, and improvement strategies.
 - [Guidance](https://github.com/microsoft/guidance) — A handy looking Python library from Microsoft that uses Handlebars templating to interleave generation, prompting, and logical control.
