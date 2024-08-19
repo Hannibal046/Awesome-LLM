@@ -327,6 +327,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [LazyLLM](https://github.com/LazyAGI/LazyLLM) - An open-source LLM app for building multi-agent LLMs applications in an easy and lazy way, supports model deployment and fine-tuning.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment
 - [unslothai](https://github.com/unslothai/unsloth) - A framework that specializes in efficient fine-tuning. On its GitHub page, you can find ready-to-use fine-tuning templates for various LLMs, allowing you to easily train your own data for free on the Google Colab cloud.
+- [gitlab.com/tozd/go/fun](https://gitlab.com/tozd/go/fun) - A Go package that provides high-level abstraction to define functions with code (the usual way), data (providing examples of inputs and expected outputs which are then used with an AI model), or natural language description.
 
 ## LLM Tutorials and Courses
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
