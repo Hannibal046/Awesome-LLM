@@ -249,6 +249,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 ## LLM Deployment
 
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
+- [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
