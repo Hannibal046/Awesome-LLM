@@ -220,6 +220,9 @@ If you're interested in the field of LLM, you may find the above list of milesto
 ## LLM Data
 - [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
 
+## LLM Data Preparation
+- [IBM data-prep-kit](https://github.com/IBM/data-prep-kit) - Open-Source Toolkit for Efficient Unstructured Data Processing with Pre-built Modules and Local to Cluster Scalability.
+
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [MixEval](https://github.com/Psycoy/MixEval) - A reliable click-and-go evaluation suite compatible with both open-source and proprietary models, supporting MixEval and other benchmarks.
