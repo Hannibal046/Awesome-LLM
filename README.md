@@ -257,6 +257,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 ## LLM Deployment
 
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
+- [Lunary](https://github.com/lunary-ai/lunary) - Open-source Observability, Prompt Management & Analytics for LLMs. 
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
