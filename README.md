@@ -178,6 +178,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
   - [CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B)
   - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
   - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/)
+  - [Qwen2.5-0.5B|1.5B|3B|7B|14B|32B|72B](https://qwenlm.github.io/blog/qwen2.5/)
 - 01-ai
   - [Yi-34B](https://huggingface.co/collections/01-ai/yi-2023-11-663f3f19119ff712e176720f)
   - [Yi1.5-6|9|34B](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8)
