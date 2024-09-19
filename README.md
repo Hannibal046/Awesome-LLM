@@ -126,6 +126,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 - [LLM4Opt](https://github.com/FeiLiu36/LLM4Opt) - Applying Large language models (LLMs) for diverse optimization tasks (Opt) is an emerging research area. This is a collection of references and papers of LLM4Opt.
 
+- [awesome-language-model-analysis](https://github.com/Furyton/awesome-language-model-analysis) - This paper list focuses on the theoretical or empirical analysis of language models, e.g., the learning dynamics, expressive capacity, interpretability, generalization, and other interesting topics.
 
 ## LLM Leaderboard
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
