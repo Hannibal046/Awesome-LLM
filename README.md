@@ -155,8 +155,9 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [SuperLim](https://lab.kb.se/leaderboard/results) - a Swedish language understanding benchmark that evaluates natural language processing (NLP) models on various tasks such as argumentation analysis, semantic similarity, and textual entailment.
 - [TAT-DQA](https://nextplusplus.github.io/TAT-DQA) - a large-scale Document Visual Question Answering (VQA) dataset designed for complex document understanding, particularly in financial reports.
 - [TAT-QA](https://nextplusplus.github.io/TAT-QA) - a large-scale question-answering benchmark focused on real-world financial data, integrating both tabular and textual information.
+- [VisualWebArena](https://jykoh.com/vwa) - a benchmark designed to assess the performance of multimodal web agents on realistic visually grounded tasks.
 - [We-Math](https://we-math.github.io/#leaderboard) - a benchmark that evaluates large multimodal models (LMMs) on their ability to perform human-like mathematical reasoning.
-- [WHOOPS!](https://whoops-benchmark.github.io) - a benchmark dataset aimed at testing AI's ability to reason about visual commonsense through images that defy normal expectations.
+- [WHOOPS!](https://whoops-benchmark.github.io) - a benchmark dataset testing AI's ability to reason about visual commonsense through images that defy normal expectations.
 
 ## Open LLM
 - Meta
