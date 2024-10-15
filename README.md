@@ -140,9 +140,12 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [CompMix](https://qa.mpi-inf.mpg.de/compmix) - a benchmark evaluating QA methods that operate over a mixture of heterogeneous input sources (KB, text, tables, infoboxes).
 - [DreamBench++](https://dreambenchplus.github.io/#leaderboard) - a benchmark for evaluating the performance of large language models (LLMs) in various tasks related to both textual and visual imagination.
 - [FELM](https://hkust-nlp.github.io/felm) - a meta-benchmark that evaluates how well factuality evaluators assess the outputs of large language models (LLMs). 
+- [Indico LLM Leaderboard](https://indicodata.ai/llm): Indico Data runs a monthly benchmarking exercise across providers (LLama, Azure OpenAI, Google, AWS Bedrock, and Indico trained discriminative standard language models RoBERTa and DeBERTa), datasets (e.g. cord and CUAD), and capabilities (text classification, key information extraction, and generative summarization).
 - [InfiBench](https://infi-coder.github.io/infibench) - a benchmark designed to evaluate large language models (LLMs) specifically in their ability to answer real-world coding-related questions.
 - [LawBench](https://lawbench.opencompass.org.cn/leaderboard) - a benchmark designed to evaluate large language models in the legal domain.
 - [LLMEval](http://llmeval.com) - focuses on understanding how these models perform in various scenarios and analyzing results from an interpretability perspective. 
+- [LLM Rankings](https://openrouter.ai/rankings): a leaderboard that compares LLMs for all prompts.
+- [LLM Use Case Leaderboard](https://llmleaderboard.goml.io): a leaderboard that features LLM use cases.
 - [M3CoT](https://lightchen233.github.io/m3cot.github.io/leaderboard.html) - a benchmark that evaluates large language models on a variety of multimodal reasoning tasks, including language, natural and social sciences, physical and social commonsense, temporal reasoning, algebra, and geometry.
 - [MathEval](https://matheval.ai) - a comprehensive benchmarking platform designed to evaluate large models' mathematical abilities across 20 fields and nearly 30,000 math problems.
 - [MixEval](https://mixeval.github.io/#leaderboard) - a ground-truth-based dynamic benchmark derived from off-the-shelf benchmark mixtures, which evaluates LLMs with a highly capable model ranking (i.e., 0.96 correlation with Chatbot Arena) while running locally and quickly (6% the time and cost of running MMLU).
