@@ -260,6 +260,8 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [The 20 questions game](https://arxiv.org/abs/2409.10338) - a framework to distinguish LLMs in a black-box using benign prompts.
+
 
 ## LLM Training Frameworks
 
