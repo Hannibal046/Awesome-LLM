@@ -161,7 +161,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 ## Open LLM
 - Meta
-  - [Llama 3.2-1|3B](https://llama.meta.com/)
+  - [Llama 3.2-1|3|11|90B](https://llama.meta.com/)
   - [Llama 3.1-8|70|405B](https://llama.meta.com/)
   - [Llama 3-8|70B](https://llama.meta.com/llama3/)
   - [Llama 2-7|13|70B](https://llama.meta.com/llama2/)
