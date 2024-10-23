@@ -261,7 +261,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
-- [CircleCI Evals Orb](https://circleci.com/developer/orbs/orb/circleci/evals) - a CircleCI orb for managing and executing evaluation jobs with reporting and testing capabilities.
+- [CircleCI Evals Orb](https://circleci.com/developer/orbs/orb/circleci/evals) - a CircleCI orb for managing and executing evaluation jobs with reporting, testing, and pass/fail decision-making capabilities.
 
 ## LLM Training Frameworks
 
