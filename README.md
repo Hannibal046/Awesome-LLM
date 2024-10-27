@@ -286,6 +286,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [Simplismart](https://www.simplismart.ai/) - A fast and memory-efficient inference engine for Generative AI workloads.
 - [Langfuse](https://github.com/langfuse/langfuse) -  Open Source LLM Engineering Platform 🪢 Tracing, Evaluations, Prompt Management, Evaluations and Playground. 
 - [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
