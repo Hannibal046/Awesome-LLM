@@ -325,6 +325,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [talkd.ai dialog](https://github.com/talkdai/dialog) - Simple API for deploying any RAG or LLM that you want adding plugins.
 - [Wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 - [GPUStack](https://github.com/gpustack/gpustack) - An open-source GPU cluster manager for running LLMs
+- [MNN-LLM](https://github.com/alibaba/MNN) -- A Device-Inference framework, including LLM Inference on device(Mobile Phone/PC/IOT)
 
 ## LLM Applications
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The PyTorch library for LLM applications.
