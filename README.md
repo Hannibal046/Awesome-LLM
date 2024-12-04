@@ -362,6 +362,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [LazyLLM](https://github.com/LazyAGI/LazyLLM) - An open-source LLM app for building multi-agent LLMs applications in an easy and lazy way, supports model deployment and fine-tuning.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment
 - [unslothai](https://github.com/unslothai/unsloth) - A framework that specializes in efficient fine-tuning. On its GitHub page, you can find ready-to-use fine-tuning templates for various LLMs, allowing you to easily train your own data for free on the Google Colab cloud.
+- [Cerbos](https://solutions.cerbos.dev/authorization-in-rag-based-ai-systems-with-cerbos) - Access control for RAG and LLMs. Enforce your organization’s permissions within your LLM apps.
 
 ## LLM Tutorials and Courses
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
