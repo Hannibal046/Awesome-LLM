@@ -7,6 +7,7 @@
 
 ## Trending LLM Projects
 
+- [DeepSeek-v3](https://github.com/deepseek-ai/DeepSeek-V3) - First open-sourced GPT-4o level model.
 - [OpenAI o3 preview](https://openai.com/12-days/) - AGI, maybe?
 - [Qwen2.5 Technical Report](https://huggingface.co/papers/2412.15115) - This report introduces Qwen2.5, a comprehensive series of large language models (LLMs) designed to meet diverse needs.
 - [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
