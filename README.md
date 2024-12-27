@@ -327,7 +327,9 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [Wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 - [GPUStack](https://github.com/gpustack/gpustack) - An open-source GPU cluster manager for running LLMs
 - [MNN-LLM](https://github.com/alibaba/MNN) -- A Device-Inference framework, including LLM Inference on device(Mobile Phone/PC/IOT)
-- [CAMEL](https://www.camel-ai.org/) - First LLM Multi-agent framework. 
+- [CAMEL](https://www.camel-ai.org/) - First LLM Multi-agent framework.
+- [GPTLocalhost](https://gptlocalhost.com/demo) - a local Word Add-in for using local LLMs in Microsoft Word locally. Alternative to Microsoft's [Colipot in Word](https://support.microsoft.com/en-us/copilot-word)
+
 
 ## LLM Applications
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build&auto-optimize LLM applications.
