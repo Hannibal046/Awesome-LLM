@@ -265,6 +265,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 
 ## LLM Training Frameworks
 
+- [veRL](https://github.com/volcengine/verl) - veRL is a flexible and efficient RL framework for LLMs.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) - DeepSpeed version of NVIDIA's Megatron-LM that adds additional support for several features such as MoE model training, Curriculum Learning, 3D Parallelism, and others. 
 - [torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning.
