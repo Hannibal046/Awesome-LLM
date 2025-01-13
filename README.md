@@ -233,8 +233,9 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - ElutherAI
   - [Pythia-1|1.4|2.8|6.9|12B](https://github.com/EleutherAI/pythia)
 - Stability AI
-  - [StableLM-3B](https://huggingface.co/collections/stabilityai/stable-lm-650852cfd55dd4e15cdcb30a)
-  - [StableLM-v2-1.6|12B](https://huggingface.co/collections/stabilityai/stable-lm-650852cfd55dd4e15cdcb30a)
+  - [StableLM-3B](https://huggingface.co/stabilityai/stablelm-3b-4e1t)
+  - [StableLM-v2-1.6B](https://huggingface.co/stabilityai/stablelm-2-1_6b)
+  - [StableLM-v2-12B](https://huggingface.co/stabilityai/stablelm-2-12b)
   - [StableCode-3B](https://huggingface.co/collections/stabilityai/stable-code-64f9dfb4ebc8a1be0a3f7650)
 - BigCode
   - [StarCoder-1|3|7B](https://huggingface.co/collections/bigcode/%E2%AD%90-starcoder-64f9bd5740eb5daaeb81dbec)
