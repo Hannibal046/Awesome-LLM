@@ -529,6 +529,7 @@
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
+- [Alexander Rush Series](https://rush-nlp.com/projects/) - high quality and educational materials you don't want to miss.
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [UWaterloo CS 886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/) - Recent Advances on Foundation Models.
 - [CS25-Transformers United](https://web.stanford.edu/class/cs25/)
