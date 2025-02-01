@@ -7,6 +7,8 @@
 
 ## Trending LLM Projects
 
+- [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
+- [open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - First-generation reasoning models from DeepSeek.
 - [Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/) - Exploring the Intelligence of Large-scale MoE Model.
 - [OpenAI o3-mini](https://openai.com/index/openai-o3-mini/) - Pushing the frontier of cost-effective reasoning.
@@ -452,12 +454,13 @@
 - [Text-Embeddings-Inference](https://github.com/huggingface/text-embeddings-inference) - Inference for text-embeddings in Rust, HFOIL Licence.
 - [Infinity](https://github.com/michaelfeil/infinity) - Inference for text-embeddings in Python
 - [LMDeploy](https://github.com/InternLM/lmdeploy) - A high-throughput and low-latency inference and serving framework for LLMs and VLs
+- [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training.
 
 </details>
 
 
 ## LLM Applications
-
+> Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
