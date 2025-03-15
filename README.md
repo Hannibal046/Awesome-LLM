@@ -527,6 +527,7 @@
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Open source AutoML tool for RAG. Optimize the RAG answer quality automatically. From generation evaluation datset to deploying optimized RAG pipeline.
 - [Epsilla](https://github.com/epsilla-cloud) - An all-in-one LLM Agent platform with your private data and knowledge, delivers your production-ready AI Agents on Day 1.
 - [Arize-Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models.
+- [LLM]([https://github.com/simonw/llm) - A CLI utility and Python library for interacting with Large Language Models, both via remote APIs and models that can be installed and run on your own machine.
 
 </details>
 
