@@ -526,7 +526,7 @@
 - [Epsilla](https://github.com/epsilla-cloud) - An all-in-one LLM Agent platform with your private data and knowledge, delivers your production-ready AI Agents on Day 1.
 - [Arize-Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models.
 - [LLM]([https://github.com/simonw/llm) - A CLI utility and Python library for interacting with Large Language Models, both via remote APIs and models that can be installed and run on your own machine.
-- [Fiddler.ai]([https://www.fiddler.ai/) - Monitor, explain, analyze, and protect LLM applications and ML Models. Gain visibility and actionable insights with the Fiddler AI Observability and Security platform.
+- [Fiddler.ai](https://www.fiddler.ai/) - Monitor, explain, analyze, and protect LLM applications and ML Models. Gain visibility and actionable insights with the Fiddler AI Observability and Security platform.
 
 </details>
 
