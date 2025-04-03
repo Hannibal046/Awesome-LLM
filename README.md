@@ -529,6 +529,7 @@
 - [Arize-Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models.
 - [LLM]([https://github.com/simonw/llm) - A CLI utility and Python library for interacting with Large Language Models, both via remote APIs and models that can be installed and run on your own machine.
 - [Just-Chat](https://github.com/longevity-genie/just-chat) - Make your LLM agent and chat with it simple and fast!
+- [LM-Kit.NET](https://lm-kit.com) — Lightweight SDK for integrating on-device LLMs into .NET applications. Offers fast local inference, RAG, JSON-constrained generation, structured data extraction, and multilingual text analysis. Built for C# and VB.NET developers looking to embed private and efficient GenAI features without cloud dependencies.
 
 </details>
 
