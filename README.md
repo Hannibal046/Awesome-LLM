@@ -595,7 +595,8 @@
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - When LLM Meets Domain Experts.
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
-
+- [Taskade](https://www.taskade.com/) - Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation within a unified workspace.
+    
 ## Contributing
 
 This is an active repository and your contributions are always welcome!
