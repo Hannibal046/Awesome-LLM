@@ -477,6 +477,7 @@
 <summary>more applications</summary>
 
 
+- [Lunary](https://lunary.ai) - Lunary: Open-source LLMOps platform for observability, prompt management, playground, testing and more.
 - [MLflow](https://mlflow.org/) - MLflow: An open-source framework for the end-to-end machine learning lifecycle, helping developers track experiments, evaluate models/prompts, deploy models, and add observability with tracing.
 - [Swiss Army Llama](https://github.com/Dicklesworthstone/swiss_army_llama) - Comprehensive set of tools for working with local LLMs for various tasks.
 - [LiteChain](https://github.com/rogeriochaves/litechain) - Lightweight alternative to LangChain for composing LLMs 
