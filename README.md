@@ -26,6 +26,7 @@
   - [LLM Training Framework](#llm-training-frameworks)
   - [LLM Inference](#llm-inference)
   - [LLM Applications](#llm-applications)
+  - [LLM Tutorials and Courses](#llm-tutorials-and-courses)
   - [LLM Books](#llm-books)
   - [Great thoughts about LLM](#great-thoughts-about-llm)
   - [Miscellaneous](#miscellaneous)
