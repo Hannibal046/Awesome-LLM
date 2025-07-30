@@ -441,6 +441,7 @@
 ## LLM Inference
 
 > Reference: [llm-inference-solutions](https://github.com/mani-kantap/llm-inference-solutions)
+- [Helicone](https://github.com/Helicone/helicone) - One-line integration for LLM observability, experimentation, prompt tracking and more.
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
