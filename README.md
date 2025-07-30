@@ -13,6 +13,7 @@
 - [Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/) - Exploring the Intelligence of Large-scale MoE Model.
 - [OpenAI o3-mini](https://openai.com/index/openai-o3-mini/) - Pushing the frontier of cost-effective reasoning.
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - First open-sourced GPT-4o level model.
+- [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - MoE language model with 32B active and 1T total parameters.
 
 
 ## Table of Content
@@ -379,6 +380,15 @@
 
     
 </details>
+<details>
+<summary>Moonshot AI</summary>
+  
+  - [Moonlight-A3B](https://huggingface.co/collections/moonshotai/moonlight-a3b-67f67b029cecfdce34f4dc23)
+  - [Kimi-VL-A3B](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85)
+  - [Kimi-K2](https://huggingface.co/collections/moonshotai/kimi-k2-6871243b990f2af5ba60617d)
+    
+</details>
+
 
 ## LLM Data
 > Reference: [LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
