@@ -1,2 +1,4 @@
 .DS_Store
 .history
+config.bat
+node_modules
