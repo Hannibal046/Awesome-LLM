@@ -166,6 +166,7 @@
 - [FELM](https://hkust-nlp.github.io/felm) - a meta-benchmark that evaluates how well factuality evaluators assess the outputs of large language models (LLMs). 
 - [InfiBench](https://infi-coder.github.io/infibench) - a benchmark designed to evaluate large language models (LLMs) specifically in their ability to answer real-world coding-related questions.
 - [LawBench](https://lawbench.opencompass.org.cn/leaderboard) - a benchmark designed to evaluate large language models in the legal domain.
+- [LLM Versus](https://llmversus.vercel.app/tools/api-cost-calculator/) - Free calculator comparing LLM API costs across 8 leading models, with side-by-side monthly estimates.
 - [LLMEval](http://llmeval.com) - focuses on understanding how these models perform in various scenarios and analyzing results from an interpretability perspective. 
 - [M3CoT](https://lightchen233.github.io/m3cot.github.io/leaderboard.html) - a benchmark that evaluates large language models on a variety of multimodal reasoning tasks, including language, natural and social sciences, physical and social commonsense, temporal reasoning, algebra, and geometry.
 - [MathEval](https://matheval.ai) - a comprehensive benchmarking platform designed to evaluate large models' mathematical abilities across 20 fields and nearly 30,000 math problems.
