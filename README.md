@@ -488,6 +488,8 @@
 <details>
 <summary>more applications</summary>
 
+- [Autonomous Researcher](https://github.com/cxclrfx/Autonomous-Researcher-with-Persistent-Evidence-Bound-Memory) - Experimental closed-source local research agent designed for persistent source-linked memory and checkpoint continuity; public documentation, sanitized observations and a synthetic demo, with no runnable distribution.
+
 
 - [MLflow](https://mlflow.org/) - MLflow: An open-source framework for the end-to-end machine learning lifecycle, helping developers track experiments, evaluate models/prompts, deploy models, and add observability with tracing.
 - [Swiss Army Llama](https://github.com/Dicklesworthstone/swiss_army_llama) - Comprehensive set of tools for working with local LLMs for various tasks.
