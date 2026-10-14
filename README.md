@@ -522,6 +522,9 @@
 - [Chainlit](https://docs.chainlit.io/overview) — A Python library for making chatbot interfaces.
 - [Guardrails.ai](https://www.guardrailsai.com/docs/) — A Python library for validating outputs and retrying failures. Still in alpha, so expect sharp edges and bugs.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
+- [SSE Toolcall Audit](https://github.com/Afloat16/sse-toolcall-audit) — Offline Chat Completions/Responses SSE tool-call assembly and validation, with comparison against non-stream responses.
+- [Tooltrace Audit](https://github.com/Afloat16/tooltrace-audit) — Offline tool-attempt and conversation-trace checks for duplicate attempts, missing results, overlaps and explicit budgets.
+- [LLM Handshake](https://github.com/Afloat16/llm-handshake) — Lightweight OpenAI-compatible endpoint capability probes for integration troubleshooting.
 - [Prompttools](https://github.com/hegelai/prompttools) — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
 - [Outlines](https://github.com/normal-computing/outlines) — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
 - [Promptify](https://github.com/promptslab/Promptify) — A small Python library for using language models to perform NLP tasks.
