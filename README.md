@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [Terse](https://github.com/bloriner/terse) - An AI-native code language for coding agents: a token-efficient prefix IR (0.60–1.00× Python tokens) with interpreter, Python transpiler, and MCP server.
 
 <details>
 <summary>more applications</summary>
