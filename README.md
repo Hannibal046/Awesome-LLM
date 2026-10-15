@@ -144,6 +144,7 @@
 
 - [LLM4Opt](https://github.com/FeiLiu36/LLM4Opt) - Applying Large language models (LLMs) for diverse optimization tasks (Opt) is an emerging research area. This is a collection of references and papers of LLM4Opt.
 
+- [Algorithmic Gold](https://github.com/jdkabattles/algorithmic-gold) - Verification standard for AI work: six statistical gates (commit, parity, placebo, paired win, Goodhart, cost) plus 5 fresh seeds and frozen holdout before any "done" claim passes; live benchmark receipts and cited evaluation-integrity patterns.
 - [awesome-language-model-analysis](https://github.com/Furyton/awesome-language-model-analysis) - This paper list focuses on the theoretical or empirical analysis of language models, e.g., the learning dynamics, expressive capacity, interpretability, generalization, and other interesting topics.
   
 </details>
