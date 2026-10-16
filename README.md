@@ -521,6 +521,7 @@
 - [Evidently](https://github.com/evidentlyai/evidently) — An open-source framework to evaluate, test and monitor ML and LLM-powered systems.
 - [Chainlit](https://docs.chainlit.io/overview) — A Python library for making chatbot interfaces.
 - [Guardrails.ai](https://www.guardrailsai.com/docs/) — A Python library for validating outputs and retrying failures. Still in alpha, so expect sharp edges and bugs.
+- [prefix-safe-json](https://github.com/canblmz1/prefix-safe-json) — A TypeScript library that checks original streamed tool-call arguments and terminal evidence before caller-owned execution.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
 - [Prompttools](https://github.com/hegelai/prompttools) — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
 - [Outlines](https://github.com/normal-computing/outlines) — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
