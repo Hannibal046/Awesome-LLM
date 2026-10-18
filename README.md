@@ -548,6 +548,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 - [LangWatch](https://github.com/langwatch/langwatch) - Open-source LLM observability, prompt evaulation, and prompt optimzation platform.
 - [TensorZero](https://www.tensorzero.com/) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- [OpenPhalanx](https://github.com/chophilip21/openPhalanx) - Self-hosted coding agent. A terminal client runs next to your repo, and open models are served from your own GPU machine (or several, clustered) through a desktop app that shows which models fit your VRAM.
 
 </details>
 
