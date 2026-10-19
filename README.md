@@ -412,6 +412,7 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [EvalShift](https://github.com/evalshift/evalshift-cli) - open-source LLM migration and regression testing for AI agents: replays a golden suite on a baseline and a candidate model, scores outputs with structural, semantic, LLM-as-judge and tool-call evaluators, and gates pull requests on regressions.
 
 </details>
 
