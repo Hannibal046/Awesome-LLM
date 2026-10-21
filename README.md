@@ -611,6 +611,23 @@
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
 
+
+## OpenClaw Monitor
+
+⭐ **Real-time AI Agent Monitoring Dashboard for OpenClaw**
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)
+
+### Features
+- **Real-time Monitoring**: Live Gateway connection and session status
+- **Token Statistics**: Track prompt/completion tokens with visual charts
+- **Multi-Agent Support**: Monitor multiple OpenClaw agents simultaneously
+- **7-Day Trends**: Message volume and token usage history
+- **WebSocket-based**: Instant updates without page refresh
+
+### Links
+- GitHub: https://github.com/flik2002/openclaw-monitor
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome!
