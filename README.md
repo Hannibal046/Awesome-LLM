@@ -570,6 +570,7 @@
 - [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+  LLM / RL Algorithm Maps📚.
+- [GPU Memory Capacity vs Bandwidth (中文)](https://ajun-industry.packscena.com/guides/gpu-memory-capacity-bandwidth/) - An AI-assisted introductory guide to LLM inference memory, prefill/decode and the limits of idealized bandwidth estimates.
 
 
 ## LLM Books
