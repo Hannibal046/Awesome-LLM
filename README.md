@@ -398,6 +398,7 @@
 - [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
 
 ## LLM Evaluation:
+- [Mode VC Chart of the Day & LLM Cost Calculator](https://modevc.com/charts/) - 39 daily empirical charts tracking Arena model rankings, API pricing history, and SDK adoption, paired with an 8-model [LLM inference cost calculator](https://modevc.com/tools/llm-inference-calculator).
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
