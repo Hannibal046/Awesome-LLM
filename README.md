@@ -412,6 +412,7 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [PromptProof](https://github.com/dylanXM/promptproof) - Snapshot & regression testing for LLM prompts: YAML test suites with CI-friendly assertions, runnable against any OpenAI-compatible endpoint.
 
 </details>
 
