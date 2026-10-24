@@ -498,6 +498,7 @@
 - [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-powered apps.
 - [Serge](https://github.com/serge-chat/serge) - a chat interface crafted with llama.cpp for running Alpaca models. No API keys, entirely self-hosted!
 - [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
+- [Doomsday Network](https://github.com/doomsday-network/doomsday) - Agent-native Proof-of-Work Layer-1 blockchain (`DOOM`) & Base Mainnet ERC-20 (`wDOOM`) with remote/stdio MCP servers (`https://doomsday.network/mcp`), Proof-of-Escrow verification, and non-custodial agent payment SDKs
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
 - [Opik](https://github.com/comet-ml/opik) - Confidently evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 - [IntelliServer](https://github.com/intelligentnode/IntelliServer) - simplifies the evaluation of LLMs by providing a unified microservice to access and test multiple AI models.
