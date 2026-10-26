@@ -622,3 +622,4 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
+- [CortexForge](https://github.com/rekurt/cortex-forge) - Open-source multi-tenant control plane for NousResearch Hermes Agent to run 1 to 1,000+ isolated AI assistant instances with real-time SSE streaming token quotas, inter-agent message broker, and zero API key exposure.
