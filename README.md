@@ -153,6 +153,7 @@
 - [LiveBench](https://livebench.ai/#/) - A Challenging, Contamination-Free LLM Benchmark.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - aims to track, rank, and evaluate LLMs and chatbots as they are released.
 - [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models using Nous benchmark suite.
+- [FinProof](https://finproof.ai) - The first adversarial benchmark for AI guardrail systems in BFSI (banking, financial services, insurance): 11,474 labeled prompts across 13 attack categories including prompt injection, agentic tool poisoning, RAG poisoning, KYC bypass, and regulatory misrepresentation. Mapped to RBI, SEBI, EU AI Act, SR 11-7, and DPDP Act. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6728799) [[dataset]](https://huggingface.co/datasets/Zytra/finproof-bench)
 <details>
   <summary> other leaderboards </summary>
 
