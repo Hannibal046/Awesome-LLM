@@ -622,3 +622,4 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
+- [SentioGate](https://github.com/SentioGate) - Intelligent, zero-markup AI gateway and LLM router with sub-20ms routing, instant failover, and strict BYOK privacy.
