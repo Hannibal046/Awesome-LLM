@@ -610,6 +610,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [quantized.uk](https://quantized.uk) - Free VRAM calculator for local LLMs: pick a model, quantization (GGUF/AWQ/EXL2...) and context length to see if it fits your GPU or Mac.
 
 ## Contributing
 
