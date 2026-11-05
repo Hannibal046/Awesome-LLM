@@ -551,6 +551,8 @@
 
 </details>
 
+- [QuickSilver Pro](https://quicksilverpro.io) - OpenAI-compatible API for models from multiple labs, with a public catalog and per-call cost reporting.
+
 ## LLM Tutorials and Courses
 - [Andrej Karpathy Series](https://www.youtube.com/@AndrejKarpathy) - My favorite!
 - [Umar Jamil Series](https://www.youtube.com/@umarjamilai) - high quality and educational videos you don't want to miss.
