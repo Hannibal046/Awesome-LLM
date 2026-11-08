@@ -412,6 +412,7 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [Profilology](https://github.com/shyringo/profilology-of-foundation-models) - Probes the ideology a model's weights encode, via 24 forced-choice questions mapped onto a 256-label taxonomy. (Author submission)
 
 </details>
 
