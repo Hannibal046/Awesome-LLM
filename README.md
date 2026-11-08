@@ -182,6 +182,7 @@
 - [VisualWebArena](https://jykoh.com/vwa) - a benchmark designed to assess the performance of multimodal web agents on realistic visually grounded tasks.
 - [We-Math](https://we-math.github.io/#leaderboard) - a benchmark that evaluates large multimodal models (LMMs) on their ability to perform human-like mathematical reasoning.
 - [WHOOPS!](https://whoops-benchmark.github.io) - a benchmark dataset testing AI's ability to reason about visual commonsense through images that defy normal expectations.
+- [Hypercritica Model Bench](https://hypercritica.com/benchmark/models) - a benchmark that evaluates LLMs on book manuscript editing (craft notes, line edits and proofreading), scored by AI judges from different model makers.
 
 </details>
 
