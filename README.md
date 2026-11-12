@@ -419,6 +419,7 @@
 
 ## LLM Training Frameworks
 
+- [LoRASpectra](https://github.com/SalyyS1/loraspectra) - Pure-NumPy SVD spectral analyzer, effective rank profiler, Energy-Optimal SVD Rank Pruner, and Multi-LoRA Subspace Conflict Detector for `.safetensors` adapters on CPU without PyTorch or GPU.
 - [Meta Lingua](https://github.com/facebookresearch/lingua) - a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [Litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training.
@@ -480,6 +481,8 @@
 
 
 ## LLM Applications
+
+- [mcp-slim](https://github.com/SalyyS1/mcp-slim) - Zero-dependency Python MCP stdio proxy and CLI token profiler that compacts tool schemas and outputs by 50%-98.7%, flattens JSON Schema `$ref` pointers, and redacts leaked secrets in real time.
 > Reference: [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
