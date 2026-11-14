@@ -484,6 +484,7 @@
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [punchtape](https://github.com/neurophant/punchtape) - An external state machine that supervises AI coding agents: machine-run checks, verified verdicts, signed finishes.
 
 <details>
 <summary>more applications</summary>
