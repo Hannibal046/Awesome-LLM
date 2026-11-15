@@ -500,6 +500,7 @@
 - [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
 - [Opik](https://github.com/comet-ml/opik) - Confidently evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Public remote Model Context Protocol (MCP) server and directory covering 1,700+ independent live-music venues, booking contacts, touring routes, and performers across all 50 US states, DC, and BC ([website](https://nostairsplease.com/)).
 - [IntelliServer](https://github.com/intelligentnode/IntelliServer) - simplifies the evaluation of LLMs by providing a unified microservice to access and test multiple AI models.
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Formerly langchain-ChatGLM, local knowledge based LLM (like ChatGLM) QA app with langchain.
 - [Search with Lepton](https://github.com/leptonai/search_with_lepton) - Build your own conversational search engine using less than 500 lines of code by [LeptonAI](https://github.com/leptonai).
