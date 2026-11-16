@@ -505,6 +505,7 @@
 - [Search with Lepton](https://github.com/leptonai/search_with_lepton) - Build your own conversational search engine using less than 500 lines of code by [LeptonAI](https://github.com/leptonai).
 - [Robocorp](https://github.com/robocorp/robocorp) - Create, deploy and operate Actions using Python anywhere to enhance your AI agents and assistants. Batteries included with an extensive set of libraries, helpers and logging.
 - [Tune Studio](https://studio.tune.app/) - Playground for devs to finetune & deploy LLMs
+- [HumanPen](https://humanpen.net/) - Academic & research document SaaS for document-level humanization (DOCX/PPTX/TXT), translation (12 languages, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), condensation (DOCX), citation format correction (DOCX, 12 styles), and scoped research projects (100 signup credits; commercial credit-based pricing).
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - Locally running websearch using LLM chains
 - [AI Gateway](https://github.com/Portkey-AI/gateway) — Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency.
 - [talkd.ai dialog](https://github.com/talkdai/dialog) - Simple API for deploying any RAG or LLM that you want adding plugins.
