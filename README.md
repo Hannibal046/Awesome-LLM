@@ -401,7 +401,7 @@
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [lighteval](https://github.com/huggingface/lighteval) - a lightweight LLM evaluation suite that Hugging Face has been using internally.
 - [simple-evals](https://github.com/openai/simple-evals) - Eval tools by OpenAI.
-- [LLM Benchmark Costco](https://github.com/joe1chief/llm-benchmark-costco) - A curated, searchable database of 378+ LLM evaluation benchmarks across 12 capability dimensions, featuring inline PDF reading, Mermaid build flowcharts, bilingual (EN/ZH) UI, and automated CI/CD deployment to GitHub Pages.
+- [LLM Benchmark Costco](https://github.com/joe1chief/llm-benchmark-costco) - A searchable LLM benchmark collection with English and Chinese summaries, filters, official source links, and data-construction and evaluation flowcharts.
 
 <details>
 <summary>other evaluation frameworks</summary>
