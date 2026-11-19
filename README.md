@@ -153,6 +153,7 @@
 - [LiveBench](https://livebench.ai/#/) - A Challenging, Contamination-Free LLM Benchmark.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - aims to track, rank, and evaluate LLMs and chatbots as they are released.
 - [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models using Nous benchmark suite.
+- [Highworth AI](https://highworth.ai/) - A community review aggregator that scores 60+ AI models by "worth it" votes from real users on Hacker News, Reddit, V2EX and Bilibili.
 <details>
   <summary> other leaderboards </summary>
 
