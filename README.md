@@ -179,6 +179,7 @@
 - [SuperLim](https://lab.kb.se/leaderboard/results) - a Swedish language understanding benchmark that evaluates natural language processing (NLP) models on various tasks such as argumentation analysis, semantic similarity, and textual entailment.
 - [TAT-DQA](https://nextplusplus.github.io/TAT-DQA) - a large-scale Document Visual Question Answering (VQA) dataset designed for complex document understanding, particularly in financial reports.
 - [TAT-QA](https://nextplusplus.github.io/TAT-QA) - a large-scale question-answering benchmark focused on real-world financial data, integrating both tabular and textual information.
+- [TraceTrial-Bench](https://tracelite.ai/leaderboard.html) - a 95-task containerized benchmark across 7 mechanism dimensions that evaluates AI agent harness reliability separately from model capability ([Paper](https://arxiv.org/abs/2610.32285), [Code](https://github.com/TraceLite-AI/TraceTrial-Bench)).
 - [VisualWebArena](https://jykoh.com/vwa) - a benchmark designed to assess the performance of multimodal web agents on realistic visually grounded tasks.
 - [We-Math](https://we-math.github.io/#leaderboard) - a benchmark that evaluates large multimodal models (LMMs) on their ability to perform human-like mathematical reasoning.
 - [WHOOPS!](https://whoops-benchmark.github.io) - a benchmark dataset testing AI's ability to reason about visual commonsense through images that defy normal expectations.
@@ -412,6 +413,7 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [TraceTrial-Bench](https://github.com/TraceLite-AI/TraceTrial-Bench) - an open-source benchmark and trace forensics suite for evaluating AI agent harness reliability and failure attribution across containerized tasks.
 
 </details>
 
