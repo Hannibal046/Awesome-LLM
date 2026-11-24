@@ -454,6 +454,7 @@
 - [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
+- [Mantiq](https://github.com/dahanco/mantiq) - Standalone local inference engine for large MoE GGUF models with VRAM/RAM/NVMe expert tiering, custom CUDA/CPU kernels and a built-in web dashboard.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [TGI](https://huggingface.co/docs/text-generation-inference/en/index) - a toolkit for deploying and serving Large Language Models (LLMs).
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
