@@ -502,7 +502,7 @@
 - [Opik](https://github.com/comet-ml/opik) - Confidently evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 - [IntelliServer](https://github.com/intelligentnode/IntelliServer) - simplifies the evaluation of LLMs by providing a unified microservice to access and test multiple AI models.
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Formerly langchain-ChatGLM, local knowledge based LLM (like ChatGLM) QA app with langchain.
-- [Not Human Search](https://nothumansearch.ai) — Search engine for AI agents that indexes 8,600+ tools and APIs ranked by agentic readiness score (0-100). MCP server with search, site details, stats, and live endpoint verification tools.
+- [Not Human Search](https://nothumansearch.ai) - Search indexed websites, APIs, and services by agent-readiness signals, with a hosted MCP endpoint and HTTP API.
 - [Search with Lepton](https://github.com/leptonai/search_with_lepton) - Build your own conversational search engine using less than 500 lines of code by [LeptonAI](https://github.com/leptonai).
 - [Robocorp](https://github.com/robocorp/robocorp) - Create, deploy and operate Actions using Python anywhere to enhance your AI agents and assistants. Batteries included with an extensive set of libraries, helpers and logging.
 - [Tune Studio](https://studio.tune.app/) - Playground for devs to finetune & deploy LLMs
