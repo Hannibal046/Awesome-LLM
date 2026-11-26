@@ -412,6 +412,7 @@
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing & evaluation library for LLM applications, in particular RAGs
 - [LangSmith](https://www.langchain.com/langsmith) - a unified platform from LangChain framework for: evaluation, collaboration HITL (Human In The Loop), logging and monitoring LLM applications.  
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [ModelStill](https://github.com/modelstill/modelstill) - a release gate for LLM changes: compares every prompt or model change with an accepted baseline case by case, with confidence intervals, and passes or fails in CI.
 
 </details>
 
