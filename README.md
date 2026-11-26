@@ -5,6 +5,8 @@
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
+- [LibreAIDeck](https://libreaideck.com) - Directory of 51+ offline and open-source AI tools filtered by exact VRAM and system RAM requirements.
+
 ## Trending LLM Projects
 
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
