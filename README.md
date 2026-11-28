@@ -598,6 +598,7 @@
 ## Miscellaneous
 
 
+- [llms.free](https://llms.free/) - Daily-verified directory of free LLM APIs (no credit card), live 30-minute uptime probes, local open-weight model VRAM calculator, and public JSON/CSV API ([GitHub](https://github.com/mrlupien-ai/free-llm-apis)).
 - [Emergent Mind](https://www.emergentmind.com) - The latest AI news, curated & explained by GPT-4.
 - [ShareGPT](https://sharegpt.com) - Share your wildest ChatGPT conversations with one click.
 - [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
